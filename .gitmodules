@@ -910,3 +910,7 @@
 	path = apps/FBK-NILab/tractogram_filtering
 	url = https://github.com/FBK-NILab/tractogram_filtering
 	datalad-url = https://github.com/FBK-NILab/tractogram_filtering
+[submodule "apps/FBK-NILab/TractSeg-BrainLife"]
+	path = apps/FBK-NILab/TractSeg-BrainLife
+	url = https://github.com/FBK-NILab/TractSeg-BrainLife
+	datalad-url = https://github.com/FBK-NILab/TractSeg-BrainLife
