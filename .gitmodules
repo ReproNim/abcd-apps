@@ -1026,3 +1026,7 @@
 	path = apps/guiomar/app-bad-channels
 	url = https://github.com/guiomar/app-bad-channels
 	datalad-url = https://github.com/guiomar/app-bad-channels
+[submodule "apps/guiomar/app-bands-topomap"]
+	path = apps/guiomar/app-bands-topomap
+	url = https://github.com/guiomar/app-bands-topomap
+	datalad-url = https://github.com/guiomar/app-bands-topomap
