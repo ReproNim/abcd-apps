@@ -686,3 +686,7 @@
 	path = apps/brainlife/bl_apps_dipy_buan_profiles
 	url = https://github.com/brainlife/bl_apps_dipy_buan_profiles
 	datalad-url = https://github.com/brainlife/bl_apps_dipy_buan_profiles
+[submodule "apps/brainlife/bl_apps_dipy_buan_shapes"]
+	path = apps/brainlife/bl_apps_dipy_buan_shapes
+	url = https://github.com/brainlife/bl_apps_dipy_buan_shapes
+	datalad-url = https://github.com/brainlife/bl_apps_dipy_buan_shapes
