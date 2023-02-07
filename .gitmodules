@@ -198,3 +198,7 @@
 	path = apps/brainlife/app-crop_reorient
 	url = https://github.com/brainlife/app-crop_reorient
 	datalad-url = https://github.com/brainlife/app-crop_reorient
+[submodule "apps/brainlife/app-cut-tractmeasures-nodes"]
+	path = apps/brainlife/app-cut-tractmeasures-nodes
+	url = https://github.com/brainlife/app-cut-tractmeasures-nodes
+	datalad-url = https://github.com/brainlife/app-cut-tractmeasures-nodes
