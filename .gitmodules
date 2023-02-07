@@ -1094,3 +1094,7 @@
 	path = apps/hanna-willis/app-fslswap
 	url = https://github.com/hanna-willis/app-fslswap
 	datalad-url = https://github.com/hanna-willis/app-fslswap
+[submodule "apps/hanna-willis/app-roi-fslmaths"]
+	path = apps/hanna-willis/app-roi-fslmaths
+	url = https://github.com/hanna-willis/app-roi-fslmaths
+	datalad-url = https://github.com/hanna-willis/app-roi-fslmaths
