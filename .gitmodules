@@ -942,3 +942,7 @@
 	path = apps/filipinascimento/bl-network-report
 	url = https://github.com/filipinascimento/bl-network-report
 	datalad-url = https://github.com/filipinascimento/bl-network-report
+[submodule "apps/filipinascimento/bl-network-visualization"]
+	path = apps/filipinascimento/bl-network-visualization
+	url = https://github.com/filipinascimento/bl-network-visualization
+	datalad-url = https://github.com/filipinascimento/bl-network-visualization
