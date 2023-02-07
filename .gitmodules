@@ -926,3 +926,7 @@
 	path = apps/filipinascimento/bl-network-communities
 	url = https://github.com/filipinascimento/bl-network-communities
 	datalad-url = https://github.com/filipinascimento/bl-network-communities
+[submodule "apps/filipinascimento/bl-network-measurements"]
+	path = apps/filipinascimento/bl-network-measurements
+	url = https://github.com/filipinascimento/bl-network-measurements
+	datalad-url = https://github.com/filipinascimento/bl-network-measurements
