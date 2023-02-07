@@ -710,3 +710,7 @@
 	path = apps/DanNBullock/app-DIPY-connectome_and_WMC_from_parc
 	url = https://github.com/DanNBullock/app-DIPY-connectome_and_WMC_from_parc
 	datalad-url = https://github.com/DanNBullock/app-DIPY-connectome_and_WMC_from_parc
+[submodule "apps/DanNBullock/app-filterViaQuickbundles"]
+	path = apps/DanNBullock/app-filterViaQuickbundles
+	url = https://github.com/DanNBullock/app-filterViaQuickbundles
+	datalad-url = https://github.com/DanNBullock/app-filterViaQuickbundles
