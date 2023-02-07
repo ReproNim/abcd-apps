@@ -122,3 +122,7 @@
 	path = apps/brainlife/app-compile-tract-profiles
 	url = https://github.com/brainlife/app-compile-tract-profiles
 	datalad-url = https://github.com/brainlife/app-compile-tract-profiles
+[submodule "apps/brainlife/app-compute-average-tractmeasure"]
+	path = apps/brainlife/app-compute-average-tractmeasure
+	url = https://github.com/brainlife/app-compute-average-tractmeasure
+	datalad-url = https://github.com/brainlife/app-compute-average-tractmeasure
