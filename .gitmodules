@@ -214,3 +214,7 @@
 	path = apps/brainlife/app-dt6tonifti
 	url = https://github.com/brainlife/app-dt6tonifti
 	datalad-url = https://github.com/brainlife/app-dt6tonifti
+[submodule "apps/brainlife/app-dtiinit"]
+	path = apps/brainlife/app-dtiinit
+	url = https://github.com/brainlife/app-dtiinit
+	datalad-url = https://github.com/brainlife/app-dtiinit
