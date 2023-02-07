@@ -6,3 +6,7 @@
 	path = apps/anibalsolon/app-connectivity-gradient
 	url = https://github.com/anibalsolon/app-connectivity-gradient
 	datalad-url = https://github.com/anibalsolon/app-connectivity-gradient
+[submodule "apps/anibalsolon/app-reho"]
+	path = apps/anibalsolon/app-reho
+	url = https://github.com/anibalsolon/app-reho
+	datalad-url = https://github.com/anibalsolon/app-reho
