@@ -454,3 +454,7 @@
 	path = apps/brainlife/app-plot-response
 	url = https://github.com/brainlife/app-plot-response
 	datalad-url = https://github.com/brainlife/app-plot-response
+[submodule "apps/brainlife/app-prf"]
+	path = apps/brainlife/app-prf
+	url = https://github.com/brainlife/app-prf
+	datalad-url = https://github.com/brainlife/app-prf
