@@ -1070,3 +1070,7 @@
 	path = apps/guiomar/app-meg-split-ctf
 	url = https://github.com/guiomar/app-meg-split-ctf
 	datalad-url = https://github.com/guiomar/app-meg-split-ctf
+[submodule "apps/guiomar/app-meg-split-fif"]
+	path = apps/guiomar/app-meg-split-fif
+	url = https://github.com/guiomar/app-meg-split-fif
+	datalad-url = https://github.com/guiomar/app-meg-split-fif
