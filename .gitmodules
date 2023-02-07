@@ -1,0 +1,4 @@
+[submodule "apps/amnsbr/app-remove-first-volumes"]
+	path = apps/amnsbr/app-remove-first-volumes
+	url = https://github.com/amnsbr/app-remove-first-volumes
+	datalad-url = https://github.com/amnsbr/app-remove-first-volumes
