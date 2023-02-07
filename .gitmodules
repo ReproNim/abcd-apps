@@ -254,3 +254,7 @@
 	path = apps/brainlife/app-extract-diffusion-metrics-rois
 	url = https://github.com/brainlife/app-extract-diffusion-metrics-rois
 	datalad-url = https://github.com/brainlife/app-extract-diffusion-metrics-rois
+[submodule "apps/brainlife/app-extract-diffusion-metrics-tissue-types"]
+	path = apps/brainlife/app-extract-diffusion-metrics-tissue-types
+	url = https://github.com/brainlife/app-extract-diffusion-metrics-tissue-types
+	datalad-url = https://github.com/brainlife/app-extract-diffusion-metrics-tissue-types
