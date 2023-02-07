@@ -634,3 +634,7 @@
 	path = apps/brainlife/app-tractprofiles-agg
 	url = https://github.com/brainlife/app-tractprofiles-agg
 	datalad-url = https://github.com/brainlife/app-tractprofiles-agg
+[submodule "apps/brainlife/app-tractseg"]
+	path = apps/brainlife/app-tractseg
+	url = https://github.com/brainlife/app-tractseg
+	datalad-url = https://github.com/brainlife/app-tractseg
