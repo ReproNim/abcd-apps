@@ -1146,3 +1146,7 @@
 	path = apps/kitchell/app-generatetractmasks
 	url = https://github.com/kitchell/app-generatetractmasks
 	datalad-url = https://github.com/kitchell/app-generatetractmasks
+[submodule "apps/kitchell/app-generatetractsurfaces"]
+	path = apps/kitchell/app-generatetractsurfaces
+	url = https://github.com/kitchell/app-generatetractsurfaces
+	datalad-url = https://github.com/kitchell/app-generatetractsurfaces
