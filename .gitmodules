@@ -614,3 +614,7 @@
 	path = apps/brainlife/app-tractanalysisprofiles
 	url = https://github.com/brainlife/app-tractanalysisprofiles
 	datalad-url = https://github.com/brainlife/app-tractanalysisprofiles
+[submodule "apps/brainlife/app-tractclassification"]
+	path = apps/brainlife/app-tractclassification
+	url = https://github.com/brainlife/app-tractclassification
+	datalad-url = https://github.com/brainlife/app-tractclassification
