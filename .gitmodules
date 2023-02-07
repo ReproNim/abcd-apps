@@ -950,3 +950,7 @@
 	path = apps/filipinascimento/bl-timeseries2network
 	url = https://github.com/filipinascimento/bl-timeseries2network
 	datalad-url = https://github.com/filipinascimento/bl-timeseries2network
+[submodule "apps/frankyeh/dsi-studio-atk"]
+	path = apps/frankyeh/dsi-studio-atk
+	url = https://github.com/frankyeh/dsi-studio-atk
+	datalad-url = https://github.com/frankyeh/dsi-studio-atk
