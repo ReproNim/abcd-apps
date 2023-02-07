@@ -870,3 +870,7 @@
 	path = apps/FarnazZE/bnbl-brainlife-sc-based-predictors
 	url = https://github.com/FarnazZE/bnbl-brainlife-sc-based-predictors
 	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-sc-based-predictors
+[submodule "apps/faskowit/app-fmri-2-mat"]
+	path = apps/faskowit/app-fmri-2-mat
+	url = https://github.com/faskowit/app-fmri-2-mat
+	datalad-url = https://github.com/faskowit/app-fmri-2-mat
