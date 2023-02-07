@@ -754,3 +754,7 @@
 	path = apps/davhunt/app-darts
 	url = https://github.com/davhunt/app-darts
 	datalad-url = https://github.com/davhunt/app-darts
+[submodule "apps/davhunt/app-GLMdenoise"]
+	path = apps/davhunt/app-GLMdenoise
+	url = https://github.com/davhunt/app-GLMdenoise
+	datalad-url = https://github.com/davhunt/app-GLMdenoise
