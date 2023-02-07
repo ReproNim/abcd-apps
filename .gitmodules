@@ -938,3 +938,7 @@
 	path = apps/filipinascimento/bl-network-preprocess
 	url = https://github.com/filipinascimento/bl-network-preprocess
 	datalad-url = https://github.com/filipinascimento/bl-network-preprocess
+[submodule "apps/filipinascimento/bl-network-report"]
+	path = apps/filipinascimento/bl-network-report
+	url = https://github.com/filipinascimento/bl-network-report
+	datalad-url = https://github.com/filipinascimento/bl-network-report
