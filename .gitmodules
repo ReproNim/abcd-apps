@@ -570,3 +570,7 @@
 	path = apps/brainlife/app-synthsr
 	url = https://github.com/brainlife/app-synthsr
 	datalad-url = https://github.com/brainlife/app-synthsr
+[submodule "apps/brainlife/app-synthstrip"]
+	path = apps/brainlife/app-synthstrip
+	url = https://github.com/brainlife/app-synthstrip
+	datalad-url = https://github.com/brainlife/app-synthstrip
