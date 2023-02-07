@@ -66,3 +66,7 @@
 	path = apps/brainlife/app-acpcART
 	url = https://github.com/brainlife/app-acpcART
 	datalad-url = https://github.com/brainlife/app-acpcART
+[submodule "apps/brainlife/app-AFQclean"]
+	path = apps/brainlife/app-AFQclean
+	url = https://github.com/brainlife/app-AFQclean
+	datalad-url = https://github.com/brainlife/app-AFQclean
