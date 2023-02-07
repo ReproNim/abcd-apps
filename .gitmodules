@@ -1062,3 +1062,7 @@
 	path = apps/guiomar/app-epoch-psd
 	url = https://github.com/guiomar/app-epoch-psd
 	datalad-url = https://github.com/guiomar/app-epoch-psd
+[submodule "apps/guiomar/app_fif2mne"]
+	path = apps/guiomar/app_fif2mne
+	url = https://github.com/guiomar/app_fif2mne
+	datalad-url = https://github.com/guiomar/app_fif2mne
