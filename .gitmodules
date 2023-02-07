@@ -1130,3 +1130,7 @@
 	path = apps/kitchell/app-AFQ_figures
 	url = https://github.com/kitchell/app-AFQ_figures
 	datalad-url = https://github.com/kitchell/app-AFQ_figures
+[submodule "apps/kitchell/app-biasfieldcorrection"]
+	path = apps/kitchell/app-biasfieldcorrection
+	url = https://github.com/kitchell/app-biasfieldcorrection
+	datalad-url = https://github.com/kitchell/app-biasfieldcorrection
