@@ -422,3 +422,7 @@
 	path = apps/brainlife/app-network-matrices-2-mat
 	url = https://github.com/brainlife/app-network-matrices-2-mat
 	datalad-url = https://github.com/brainlife/app-network-matrices-2-mat
+[submodule "apps/brainlife/app-networkneuro"]
+	path = apps/brainlife/app-networkneuro
+	url = https://github.com/brainlife/app-networkneuro
+	datalad-url = https://github.com/brainlife/app-networkneuro
