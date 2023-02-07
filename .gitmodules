@@ -914,3 +914,7 @@
 	path = apps/FBK-NILab/TractSeg-BrainLife
 	url = https://github.com/FBK-NILab/TractSeg-BrainLife
 	datalad-url = https://github.com/FBK-NILab/TractSeg-BrainLife
+[submodule "apps/FCP-INDI/app-C-PAC-brainlife.io"]
+	path = apps/FCP-INDI/app-C-PAC-brainlife.io
+	url = https://github.com/FCP-INDI/app-C-PAC-brainlife.io
+	datalad-url = https://github.com/FCP-INDI/app-C-PAC-brainlife.io
