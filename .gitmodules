@@ -670,3 +670,7 @@
 	path = apps/brainlife/app-white-matter-mask-fa
 	url = https://github.com/brainlife/app-white-matter-mask-fa
 	datalad-url = https://github.com/brainlife/app-white-matter-mask-fa
+[submodule "apps/brainlife/app-wmaSeg"]
+	path = apps/brainlife/app-wmaSeg
+	url = https://github.com/brainlife/app-wmaSeg
+	datalad-url = https://github.com/brainlife/app-wmaSeg
