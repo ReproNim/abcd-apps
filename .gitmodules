@@ -698,3 +698,7 @@
 	path = apps/BramshQamar/brainlife_buan_bundle_profile
 	url = https://github.com/BramshQamar/brainlife_buan_bundle_profile
 	datalad-url = https://github.com/BramshQamar/brainlife_buan_bundle_profile
+[submodule "apps/DanNBullock/app-createMNI_ROIS_and_warp2subj"]
+	path = apps/DanNBullock/app-createMNI_ROIS_and_warp2subj
+	url = https://github.com/DanNBullock/app-createMNI_ROIS_and_warp2subj
+	datalad-url = https://github.com/DanNBullock/app-createMNI_ROIS_and_warp2subj
