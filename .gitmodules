@@ -690,3 +690,7 @@
 	path = apps/brainlife/bl_apps_dipy_buan_shapes
 	url = https://github.com/brainlife/bl_apps_dipy_buan_shapes
 	datalad-url = https://github.com/brainlife/bl_apps_dipy_buan_shapes
+[submodule "apps/brainlife/VisWMROIWarp"]
+	path = apps/brainlife/VisWMROIWarp
+	url = https://github.com/brainlife/VisWMROIWarp
+	datalad-url = https://github.com/brainlife/VisWMROIWarp
