@@ -806,3 +806,7 @@
 	path = apps/dipy/bl_apps_dipy_fit_ivim
 	url = https://github.com/dipy/bl_apps_dipy_fit_ivim
 	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_ivim
+[submodule "apps/dipy/bl_apps_dipy_fit_mapmri"]
+	path = apps/dipy/bl_apps_dipy_fit_mapmri
+	url = https://github.com/dipy/bl_apps_dipy_fit_mapmri
+	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_mapmri
