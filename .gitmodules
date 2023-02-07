@@ -278,3 +278,7 @@
 	path = apps/brainlife/app-freesurfer-agg
 	url = https://github.com/brainlife/app-freesurfer-agg
 	datalad-url = https://github.com/brainlife/app-freesurfer-agg
+[submodule "apps/brainlife/app-freesurfer-longitudinal"]
+	path = apps/brainlife/app-freesurfer-longitudinal
+	url = https://github.com/brainlife/app-freesurfer-longitudinal
+	datalad-url = https://github.com/brainlife/app-freesurfer-longitudinal
