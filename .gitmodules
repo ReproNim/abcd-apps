@@ -978,3 +978,7 @@
 	path = apps/frankyeh/dsi-studio-tt2trk
 	url = https://github.com/frankyeh/dsi-studio-tt2trk
 	datalad-url = https://github.com/frankyeh/dsi-studio-tt2trk
+[submodule "apps/giulia-berto/app-ants-FA-registration"]
+	path = apps/giulia-berto/app-ants-FA-registration
+	url = https://github.com/giulia-berto/app-ants-FA-registration
+	datalad-url = https://github.com/giulia-berto/app-ants-FA-registration
