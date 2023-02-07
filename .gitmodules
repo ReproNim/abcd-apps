@@ -46,3 +46,7 @@
 	path = apps/bacaron/app-mrtrix3-act
 	url = https://github.com/bacaron/app-mrtrix3-act
 	datalad-url = https://github.com/bacaron/app-mrtrix3-act
+[submodule "apps/bacaron/app-reslice-rois-dwi"]
+	path = apps/bacaron/app-reslice-rois-dwi
+	url = https://github.com/bacaron/app-reslice-rois-dwi
+	datalad-url = https://github.com/bacaron/app-reslice-rois-dwi
