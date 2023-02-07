@@ -250,3 +250,7 @@
 	path = apps/brainlife/app-extract-bundles-quickbundles
 	url = https://github.com/brainlife/app-extract-bundles-quickbundles
 	datalad-url = https://github.com/brainlife/app-extract-bundles-quickbundles
+[submodule "apps/brainlife/app-extract-diffusion-metrics-rois"]
+	path = apps/brainlife/app-extract-diffusion-metrics-rois
+	url = https://github.com/brainlife/app-extract-diffusion-metrics-rois
+	datalad-url = https://github.com/brainlife/app-extract-diffusion-metrics-rois
