@@ -190,3 +190,7 @@
 	path = apps/brainlife/app-cortex-tissue-mapping-stats
 	url = https://github.com/brainlife/app-cortex-tissue-mapping-stats
 	datalad-url = https://github.com/brainlife/app-cortex-tissue-mapping-stats
+[submodule "apps/brainlife/app-create-networkneuro"]
+	path = apps/brainlife/app-create-networkneuro
+	url = https://github.com/brainlife/app-create-networkneuro
+	datalad-url = https://github.com/brainlife/app-create-networkneuro
