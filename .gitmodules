@@ -822,3 +822,7 @@
 	path = apps/dipy/bl_apps_dipy_mask
 	url = https://github.com/dipy/bl_apps_dipy_mask
 	datalad-url = https://github.com/dipy/bl_apps_dipy_mask
+[submodule "apps/dipy/bl_apps_dipy_median_otsu"]
+	path = apps/dipy/bl_apps_dipy_median_otsu
+	url = https://github.com/dipy/bl_apps_dipy_median_otsu
+	datalad-url = https://github.com/dipy/bl_apps_dipy_median_otsu
