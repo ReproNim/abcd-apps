@@ -406,3 +406,7 @@
 	path = apps/brainlife/app-mrtrix3-split-b0s
 	url = https://github.com/brainlife/app-mrtrix3-split-b0s
 	datalad-url = https://github.com/brainlife/app-mrtrix3-split-b0s
+[submodule "apps/brainlife/app-mrtrix3-tensor-fit"]
+	path = apps/brainlife/app-mrtrix3-tensor-fit
+	url = https://github.com/brainlife/app-mrtrix3-tensor-fit
+	datalad-url = https://github.com/brainlife/app-mrtrix3-tensor-fit
