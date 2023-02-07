@@ -294,3 +294,7 @@
 	path = apps/brainlife/app-freesurfer-stats
 	url = https://github.com/brainlife/app-freesurfer-stats
 	datalad-url = https://github.com/brainlife/app-freesurfer-stats
+[submodule "apps/brainlife/app-fsl-anat"]
+	path = apps/brainlife/app-fsl-anat
+	url = https://github.com/brainlife/app-fsl-anat
+	datalad-url = https://github.com/brainlife/app-fsl-anat
