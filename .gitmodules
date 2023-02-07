@@ -1122,3 +1122,7 @@
 	path = apps/kitchell/app-3Dfreesurfs
 	url = https://github.com/kitchell/app-3Dfreesurfs
 	datalad-url = https://github.com/kitchell/app-3Dfreesurfs
+[submodule "apps/kitchell/app-3DPialWM_freesurfer"]
+	path = apps/kitchell/app-3DPialWM_freesurfer
+	url = https://github.com/kitchell/app-3DPialWM_freesurfer
+	datalad-url = https://github.com/kitchell/app-3DPialWM_freesurfer
