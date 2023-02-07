@@ -102,3 +102,7 @@
 	path = apps/brainlife/app-clean-parcellation
 	url = https://github.com/brainlife/app-clean-parcellation
 	datalad-url = https://github.com/brainlife/app-clean-parcellation
+[submodule "apps/brainlife/app-combine-tracts"]
+	path = apps/brainlife/app-combine-tracts
+	url = https://github.com/brainlife/app-combine-tracts
+	datalad-url = https://github.com/brainlife/app-combine-tracts
