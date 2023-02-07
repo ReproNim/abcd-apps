@@ -374,3 +374,7 @@
 	path = apps/brainlife/app-mean-transformation-matrix
 	url = https://github.com/brainlife/app-mean-transformation-matrix
 	datalad-url = https://github.com/brainlife/app-mean-transformation-matrix
+[submodule "apps/brainlife/app-mriqc"]
+	path = apps/brainlife/app-mriqc
+	url = https://github.com/brainlife/app-mriqc
+	datalad-url = https://github.com/brainlife/app-mriqc
