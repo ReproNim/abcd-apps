@@ -1142,3 +1142,7 @@
 	path = apps/kitchell/app-decimatemesh
 	url = https://github.com/kitchell/app-decimatemesh
 	datalad-url = https://github.com/kitchell/app-decimatemesh
+[submodule "apps/kitchell/app-generatetractmasks"]
+	path = apps/kitchell/app-generatetractmasks
+	url = https://github.com/kitchell/app-generatetractmasks
+	datalad-url = https://github.com/kitchell/app-generatetractmasks
