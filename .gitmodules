@@ -550,3 +550,7 @@
 	path = apps/brainlife/app-socr-mlra
 	url = https://github.com/brainlife/app-socr-mlra
 	datalad-url = https://github.com/brainlife/app-socr-mlra
+[submodule "apps/brainlife/app-split-dwi-volumes"]
+	path = apps/brainlife/app-split-dwi-volumes
+	url = https://github.com/brainlife/app-split-dwi-volumes
+	datalad-url = https://github.com/brainlife/app-split-dwi-volumes
