@@ -1042,3 +1042,7 @@
 	path = apps/guiomar/app_ctf2mne
 	url = https://github.com/guiomar/app_ctf2mne
 	datalad-url = https://github.com/guiomar/app_ctf2mne
+[submodule "apps/guiomar/app_edf2mne"]
+	path = apps/guiomar/app_edf2mne
+	url = https://github.com/guiomar/app_edf2mne
+	datalad-url = https://github.com/guiomar/app_edf2mne
