@@ -738,3 +738,7 @@
 	path = apps/DanNBullock/app-wma_pyTools-TractFigs
 	url = https://github.com/DanNBullock/app-wma_pyTools-TractFigs
 	datalad-url = https://github.com/DanNBullock/app-wma_pyTools-TractFigs
+[submodule "apps/davhunt/app-analyzePRF"]
+	path = apps/davhunt/app-analyzePRF
+	url = https://github.com/davhunt/app-analyzePRF
+	datalad-url = https://github.com/davhunt/app-analyzePRF
