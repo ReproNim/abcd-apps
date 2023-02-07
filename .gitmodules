@@ -1158,3 +1158,7 @@
 	path = apps/kitchell/app-plot3Dobjects
 	url = https://github.com/kitchell/app-plot3Dobjects
 	datalad-url = https://github.com/kitchell/app-plot3Dobjects
+[submodule "apps/kitchell/app-plotEigenfunctions"]
+	path = apps/kitchell/app-plotEigenfunctions
+	url = https://github.com/kitchell/app-plotEigenfunctions
+	datalad-url = https://github.com/kitchell/app-plotEigenfunctions
