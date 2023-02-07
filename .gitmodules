@@ -26,3 +26,7 @@
 	path = apps/anibalsolon/PRFmodel-app
 	url = https://github.com/anibalsolon/PRFmodel-app
 	datalad-url = https://github.com/anibalsolon/PRFmodel-app
+[submodule "apps/bacaron/app-combine-2d-to-3d"]
+	path = apps/bacaron/app-combine-2d-to-3d
+	url = https://github.com/bacaron/app-combine-2d-to-3d
+	datalad-url = https://github.com/bacaron/app-combine-2d-to-3d
