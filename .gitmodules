@@ -106,3 +106,7 @@
 	path = apps/brainlife/app-combine-tracts
 	url = https://github.com/brainlife/app-combine-tracts
 	datalad-url = https://github.com/brainlife/app-combine-tracts
+[submodule "apps/brainlife/app-commit"]
+	path = apps/brainlife/app-commit
+	url = https://github.com/brainlife/app-commit
+	datalad-url = https://github.com/brainlife/app-commit
