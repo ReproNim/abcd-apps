@@ -718,3 +718,7 @@
 	path = apps/DanNBullock/app-segment_with_ROIs
 	url = https://github.com/DanNBullock/app-segment_with_ROIs
 	datalad-url = https://github.com/DanNBullock/app-segment_with_ROIs
+[submodule "apps/DanNBullock/app-SNR_Report"]
+	path = apps/DanNBullock/app-SNR_Report
+	url = https://github.com/DanNBullock/app-SNR_Report
+	datalad-url = https://github.com/DanNBullock/app-SNR_Report
