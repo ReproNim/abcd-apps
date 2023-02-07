@@ -878,3 +878,7 @@
 	path = apps/faskowit/app-multiAtlasTT
 	url = https://github.com/faskowit/app-multiAtlasTT
 	datalad-url = https://github.com/faskowit/app-multiAtlasTT
+[submodule "apps/FBK-NILab/app-classifyber"]
+	path = apps/FBK-NILab/app-classifyber
+	url = https://github.com/FBK-NILab/app-classifyber
+	datalad-url = https://github.com/FBK-NILab/app-classifyber
