@@ -758,3 +758,7 @@
 	path = apps/davhunt/app-GLMdenoise
 	url = https://github.com/davhunt/app-GLMdenoise
 	datalad-url = https://github.com/davhunt/app-GLMdenoise
+[submodule "apps/davhunt/app-prfv2"]
+	path = apps/davhunt/app-prfv2
+	url = https://github.com/davhunt/app-prfv2
+	datalad-url = https://github.com/davhunt/app-prfv2
