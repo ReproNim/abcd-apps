@@ -814,3 +814,7 @@
 	path = apps/dipy/bl_apps_dipy_gibbs_ringing
 	url = https://github.com/dipy/bl_apps_dipy_gibbs_ringing
 	datalad-url = https://github.com/dipy/bl_apps_dipy_gibbs_ringing
+[submodule "apps/dipy/bl_apps_dipy_info"]
+	path = apps/dipy/bl_apps_dipy_info
+	url = https://github.com/dipy/bl_apps_dipy_info
+	datalad-url = https://github.com/dipy/bl_apps_dipy_info
