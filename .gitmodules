@@ -850,3 +850,7 @@
 	path = apps/dPys/app-extract_b0_masks
 	url = https://github.com/dPys/app-extract_b0_masks
 	datalad-url = https://github.com/dPys/app-extract_b0_masks
+[submodule "apps/dungscout96/app-test-brainlife"]
+	path = apps/dungscout96/app-test-brainlife
+	url = https://github.com/dungscout96/app-test-brainlife
+	datalad-url = https://github.com/dungscout96/app-test-brainlife
