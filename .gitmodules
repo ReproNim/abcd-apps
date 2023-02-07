@@ -602,3 +602,7 @@
 	path = apps/brainlife/app-thickness-volume-eccentricity
 	url = https://github.com/brainlife/app-thickness-volume-eccentricity
 	datalad-url = https://github.com/brainlife/app-thickness-volume-eccentricity
+[submodule "apps/brainlife/app-time-series-2-network"]
+	path = apps/brainlife/app-time-series-2-network
+	url = https://github.com/brainlife/app-time-series-2-network
+	datalad-url = https://github.com/brainlife/app-time-series-2-network
