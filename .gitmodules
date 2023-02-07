@@ -1058,3 +1058,7 @@
 	path = apps/guiomar/app-epoch-equal
 	url = https://github.com/guiomar/app-epoch-equal
 	datalad-url = https://github.com/guiomar/app-epoch-equal
+[submodule "apps/guiomar/app-epoch-psd"]
+	path = apps/guiomar/app-epoch-psd
+	url = https://github.com/guiomar/app-epoch-psd
+	datalad-url = https://github.com/guiomar/app-epoch-psd
