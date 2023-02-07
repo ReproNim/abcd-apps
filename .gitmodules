@@ -234,3 +234,7 @@
 	path = apps/brainlife/app-eccentricity-classification
 	url = https://github.com/brainlife/app-eccentricity-classification
 	datalad-url = https://github.com/brainlife/app-eccentricity-classification
+[submodule "apps/brainlife/app-endpointMapGeneration"]
+	path = apps/brainlife/app-endpointMapGeneration
+	url = https://github.com/brainlife/app-endpointMapGeneration
+	datalad-url = https://github.com/brainlife/app-endpointMapGeneration
