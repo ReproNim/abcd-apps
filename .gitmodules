@@ -82,3 +82,7 @@
 	path = apps/brainlife/app-align-t2-to-t1
 	url = https://github.com/brainlife/app-align-t2-to-t1
 	datalad-url = https://github.com/brainlife/app-align-t2-to-t1
+[submodule "apps/brainlife/app-benson14-retinotopy"]
+	path = apps/brainlife/app-benson14-retinotopy
+	url = https://github.com/brainlife/app-benson14-retinotopy
+	datalad-url = https://github.com/brainlife/app-benson14-retinotopy
