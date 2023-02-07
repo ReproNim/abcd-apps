@@ -954,3 +954,7 @@
 	path = apps/frankyeh/dsi-studio-atk
 	url = https://github.com/frankyeh/dsi-studio-atk
 	datalad-url = https://github.com/frankyeh/dsi-studio-atk
+[submodule "apps/frankyeh/dsi-studio-dwi2src"]
+	path = apps/frankyeh/dsi-studio-dwi2src
+	url = https://github.com/frankyeh/dsi-studio-dwi2src
+	datalad-url = https://github.com/frankyeh/dsi-studio-dwi2src
