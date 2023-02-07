@@ -626,3 +626,7 @@
 	path = apps/brainlife/app-tractographyQualityCheck
 	url = https://github.com/brainlife/app-tractographyQualityCheck
 	datalad-url = https://github.com/brainlife/app-tractographyQualityCheck
+[submodule "apps/brainlife/app-tractometry-after-tractseg"]
+	path = apps/brainlife/app-tractometry-after-tractseg
+	url = https://github.com/brainlife/app-tractometry-after-tractseg
+	datalad-url = https://github.com/brainlife/app-tractometry-after-tractseg
