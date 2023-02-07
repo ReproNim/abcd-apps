@@ -902,3 +902,7 @@
 	path = apps/FBK-NILab/bl_app_dbb_preproc_t1w
 	url = https://github.com/FBK-NILab/bl_app_dbb_preproc_t1w
 	datalad-url = https://github.com/FBK-NILab/bl_app_dbb_preproc_t1w
+[submodule "apps/FBK-NILab/fractal_dimension"]
+	path = apps/FBK-NILab/fractal_dimension
+	url = https://github.com/FBK-NILab/fractal_dimension
+	datalad-url = https://github.com/FBK-NILab/fractal_dimension
