@@ -350,3 +350,7 @@
 	path = apps/brainlife/app-life
 	url = https://github.com/brainlife/app-life
 	datalad-url = https://github.com/brainlife/app-life
+[submodule "apps/brainlife/app-maiaRings"]
+	path = apps/brainlife/app-maiaRings
+	url = https://github.com/brainlife/app-maiaRings
+	datalad-url = https://github.com/brainlife/app-maiaRings
