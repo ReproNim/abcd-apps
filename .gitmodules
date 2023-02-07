@@ -782,3 +782,7 @@
 	path = apps/dipy/bl_apps_dipy_denoise_mppca
 	url = https://github.com/dipy/bl_apps_dipy_denoise_mppca
 	datalad-url = https://github.com/dipy/bl_apps_dipy_denoise_mppca
+[submodule "apps/dipy/bl_apps_dipy_denoise_nlmeans"]
+	path = apps/dipy/bl_apps_dipy_denoise_nlmeans
+	url = https://github.com/dipy/bl_apps_dipy_denoise_nlmeans
+	datalad-url = https://github.com/dipy/bl_apps_dipy_denoise_nlmeans
