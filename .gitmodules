@@ -1010,3 +1010,7 @@
 	path = apps/giulia-berto/app-resample-tck
 	url = https://github.com/giulia-berto/app-resample-tck
 	datalad-url = https://github.com/giulia-berto/app-resample-tck
+[submodule "apps/guiomar/app-artifact-rejection"]
+	path = apps/guiomar/app-artifact-rejection
+	url = https://github.com/guiomar/app-artifact-rejection
+	datalad-url = https://github.com/guiomar/app-artifact-rejection
