@@ -86,3 +86,7 @@
 	path = apps/brainlife/app-benson14-retinotopy
 	url = https://github.com/brainlife/app-benson14-retinotopy
 	datalad-url = https://github.com/brainlife/app-benson14-retinotopy
+[submodule "apps/brainlife/app-checkOrientation"]
+	path = apps/brainlife/app-checkOrientation
+	url = https://github.com/brainlife/app-checkOrientation
+	datalad-url = https://github.com/brainlife/app-checkOrientation
