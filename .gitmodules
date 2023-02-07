@@ -266,3 +266,7 @@
 	path = apps/brainlife/app-filter-tractograms
 	url = https://github.com/brainlife/app-filter-tractograms
 	datalad-url = https://github.com/brainlife/app-filter-tractograms
+[submodule "apps/brainlife/app-fmriprep"]
+	path = apps/brainlife/app-fmriprep
+	url = https://github.com/brainlife/app-fmriprep
+	datalad-url = https://github.com/brainlife/app-fmriprep
