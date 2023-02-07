@@ -882,3 +882,7 @@
 	path = apps/FBK-NILab/app-classifyber
 	url = https://github.com/FBK-NILab/app-classifyber
 	datalad-url = https://github.com/FBK-NILab/app-classifyber
+[submodule "apps/FBK-NILab/app-classifyber-segmentation"]
+	path = apps/FBK-NILab/app-classifyber-segmentation
+	url = https://github.com/FBK-NILab/app-classifyber-segmentation
+	datalad-url = https://github.com/FBK-NILab/app-classifyber-segmentation
