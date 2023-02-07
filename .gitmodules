@@ -182,3 +182,7 @@
 	path = apps/brainlife/app-cortex-mapping-images
 	url = https://github.com/brainlife/app-cortex-mapping-images
 	datalad-url = https://github.com/brainlife/app-cortex-mapping-images
+[submodule "apps/brainlife/app-cortex-tissue-mapping"]
+	path = apps/brainlife/app-cortex-tissue-mapping
+	url = https://github.com/brainlife/app-cortex-tissue-mapping
+	datalad-url = https://github.com/brainlife/app-cortex-tissue-mapping
