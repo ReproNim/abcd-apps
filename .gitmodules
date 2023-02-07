@@ -794,3 +794,7 @@
 	path = apps/dipy/bl_apps_dipy_fit_csd
 	url = https://github.com/dipy/bl_apps_dipy_fit_csd
 	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_csd
+[submodule "apps/dipy/bl_apps_dipy_fit_dki"]
+	path = apps/dipy/bl_apps_dipy_fit_dki
+	url = https://github.com/dipy/bl_apps_dipy_fit_dki
+	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_dki
