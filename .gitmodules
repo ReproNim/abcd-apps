@@ -786,3 +786,7 @@
 	path = apps/dipy/bl_apps_dipy_denoise_nlmeans
 	url = https://github.com/dipy/bl_apps_dipy_denoise_nlmeans
 	datalad-url = https://github.com/dipy/bl_apps_dipy_denoise_nlmeans
+[submodule "apps/dipy/bl_apps_dipy_fit_csa"]
+	path = apps/dipy/bl_apps_dipy_fit_csa
+	url = https://github.com/dipy/bl_apps_dipy_fit_csa
+	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_csa
