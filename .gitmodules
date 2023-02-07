@@ -818,3 +818,7 @@
 	path = apps/dipy/bl_apps_dipy_info
 	url = https://github.com/dipy/bl_apps_dipy_info
 	datalad-url = https://github.com/dipy/bl_apps_dipy_info
+[submodule "apps/dipy/bl_apps_dipy_mask"]
+	path = apps/dipy/bl_apps_dipy_mask
+	url = https://github.com/dipy/bl_apps_dipy_mask
+	datalad-url = https://github.com/dipy/bl_apps_dipy_mask
