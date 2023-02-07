@@ -518,3 +518,7 @@
 	path = apps/brainlife/app-rsHRF
 	url = https://github.com/brainlife/app-rsHRF
 	datalad-url = https://github.com/brainlife/app-rsHRF
+[submodule "apps/brainlife/app-segment-thalamic-nuclei"]
+	path = apps/brainlife/app-segment-thalamic-nuclei
+	url = https://github.com/brainlife/app-segment-thalamic-nuclei
+	datalad-url = https://github.com/brainlife/app-segment-thalamic-nuclei
