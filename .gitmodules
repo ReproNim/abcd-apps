@@ -682,3 +682,7 @@
 	path = apps/brainlife/app-wmctotrk
 	url = https://github.com/brainlife/app-wmctotrk
 	datalad-url = https://github.com/brainlife/app-wmctotrk
+[submodule "apps/brainlife/bl_apps_dipy_buan_profiles"]
+	path = apps/brainlife/bl_apps_dipy_buan_profiles
+	url = https://github.com/brainlife/bl_apps_dipy_buan_profiles
+	datalad-url = https://github.com/brainlife/bl_apps_dipy_buan_profiles
