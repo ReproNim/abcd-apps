@@ -566,3 +566,7 @@
 	path = apps/brainlife/app-subj2reference
 	url = https://github.com/brainlife/app-subj2reference
 	datalad-url = https://github.com/brainlife/app-subj2reference
+[submodule "apps/brainlife/app-synthsr"]
+	path = apps/brainlife/app-synthsr
+	url = https://github.com/brainlife/app-synthsr
+	datalad-url = https://github.com/brainlife/app-synthsr
