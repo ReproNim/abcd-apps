@@ -854,3 +854,7 @@
 	path = apps/dungscout96/app-test-brainlife
 	url = https://github.com/dungscout96/app-test-brainlife
 	datalad-url = https://github.com/dungscout96/app-test-brainlife
+[submodule "apps/FarnazZE/bnbl-brainlife-clustering-edge-time-series"]
+	path = apps/FarnazZE/bnbl-brainlife-clustering-edge-time-series
+	url = https://github.com/FarnazZE/bnbl-brainlife-clustering-edge-time-series
+	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-clustering-edge-time-series
