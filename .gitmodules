@@ -534,3 +534,7 @@
 	path = apps/brainlife/app-sift2-connectome-generation
 	url = https://github.com/brainlife/app-sift2-connectome-generation
 	datalad-url = https://github.com/brainlife/app-sift2-connectome-generation
+[submodule "apps/brainlife/app-sift-sift2"]
+	path = apps/brainlife/app-sift-sift2
+	url = https://github.com/brainlife/app-sift-sift2
+	datalad-url = https://github.com/brainlife/app-sift-sift2
