@@ -1074,3 +1074,7 @@
 	path = apps/guiomar/app-meg-split-fif
 	url = https://github.com/guiomar/app-meg-split-fif
 	datalad-url = https://github.com/guiomar/app-meg-split-fif
+[submodule "apps/guiomar/app-peak-amplitude"]
+	path = apps/guiomar/app-peak-amplitude
+	url = https://github.com/guiomar/app-peak-amplitude
+	datalad-url = https://github.com/guiomar/app-peak-amplitude
