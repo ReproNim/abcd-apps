@@ -42,3 +42,7 @@
 	path = apps/bacaron/app-mergeTCK
 	url = https://github.com/bacaron/app-mergeTCK
 	datalad-url = https://github.com/bacaron/app-mergeTCK
+[submodule "apps/bacaron/app-mrtrix3-act"]
+	path = apps/bacaron/app-mrtrix3-act
+	url = https://github.com/bacaron/app-mrtrix3-act
+	datalad-url = https://github.com/bacaron/app-mrtrix3-act
