@@ -126,3 +126,7 @@
 	path = apps/brainlife/app-compute-average-tractmeasure
 	url = https://github.com/brainlife/app-compute-average-tractmeasure
 	datalad-url = https://github.com/brainlife/app-compute-average-tractmeasure
+[submodule "apps/brainlife/app-compute-similarity-parcellations"]
+	path = apps/brainlife/app-compute-similarity-parcellations
+	url = https://github.com/brainlife/app-compute-similarity-parcellations
+	datalad-url = https://github.com/brainlife/app-compute-similarity-parcellations
