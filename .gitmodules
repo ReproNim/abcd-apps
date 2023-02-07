@@ -74,3 +74,7 @@
 	path = apps/brainlife/app-align-mp2rage-to-t1
 	url = https://github.com/brainlife/app-align-mp2rage-to-t1
 	datalad-url = https://github.com/brainlife/app-align-mp2rage-to-t1
+[submodule "apps/brainlife/app-align-n-average-images"]
+	path = apps/brainlife/app-align-n-average-images
+	url = https://github.com/brainlife/app-align-n-average-images
+	datalad-url = https://github.com/brainlife/app-align-n-average-images
