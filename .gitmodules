@@ -522,3 +522,7 @@
 	path = apps/brainlife/app-segment-thalamic-nuclei
 	url = https://github.com/brainlife/app-segment-thalamic-nuclei
 	datalad-url = https://github.com/brainlife/app-segment-thalamic-nuclei
+[submodule "apps/brainlife/app-segment-tracts-between-multiple-regions"]
+	path = apps/brainlife/app-segment-tracts-between-multiple-regions
+	url = https://github.com/brainlife/app-segment-tracts-between-multiple-regions
+	datalad-url = https://github.com/brainlife/app-segment-tracts-between-multiple-regions
