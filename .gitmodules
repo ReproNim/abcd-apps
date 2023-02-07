@@ -414,3 +414,7 @@
 	path = apps/brainlife/app-myelin-mapping
 	url = https://github.com/brainlife/app-myelin-mapping
 	datalad-url = https://github.com/brainlife/app-myelin-mapping
+[submodule "apps/brainlife/app-network-backbone"]
+	path = apps/brainlife/app-network-backbone
+	url = https://github.com/brainlife/app-network-backbone
+	datalad-url = https://github.com/brainlife/app-network-backbone
