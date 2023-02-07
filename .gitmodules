@@ -750,3 +750,7 @@
 	path = apps/davhunt/app-benson14-retinotopy
 	url = https://github.com/davhunt/app-benson14-retinotopy
 	datalad-url = https://github.com/davhunt/app-benson14-retinotopy
+[submodule "apps/davhunt/app-darts"]
+	path = apps/davhunt/app-darts
+	url = https://github.com/davhunt/app-darts
+	datalad-url = https://github.com/davhunt/app-darts
