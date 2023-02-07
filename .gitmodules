@@ -358,3 +358,7 @@
 	path = apps/brainlife/app-make-epochs
 	url = https://github.com/brainlife/app-make-epochs
 	datalad-url = https://github.com/brainlife/app-make-epochs
+[submodule "apps/brainlife/app-make-mask-from-dtiinit"]
+	path = apps/brainlife/app-make-mask-from-dtiinit
+	url = https://github.com/brainlife/app-make-mask-from-dtiinit
+	datalad-url = https://github.com/brainlife/app-make-mask-from-dtiinit
