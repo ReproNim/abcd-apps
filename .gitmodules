@@ -714,3 +714,7 @@
 	path = apps/DanNBullock/app-filterViaQuickbundles
 	url = https://github.com/DanNBullock/app-filterViaQuickbundles
 	datalad-url = https://github.com/DanNBullock/app-filterViaQuickbundles
+[submodule "apps/DanNBullock/app-segment_with_ROIs"]
+	path = apps/DanNBullock/app-segment_with_ROIs
+	url = https://github.com/DanNBullock/app-segment_with_ROIs
+	datalad-url = https://github.com/DanNBullock/app-segment_with_ROIs
