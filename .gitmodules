@@ -874,3 +874,7 @@
 	path = apps/faskowit/app-fmri-2-mat
 	url = https://github.com/faskowit/app-fmri-2-mat
 	datalad-url = https://github.com/faskowit/app-fmri-2-mat
+[submodule "apps/faskowit/app-multiAtlasTT"]
+	path = apps/faskowit/app-multiAtlasTT
+	url = https://github.com/faskowit/app-multiAtlasTT
+	datalad-url = https://github.com/faskowit/app-multiAtlasTT
