@@ -962,3 +962,7 @@
 	path = apps/frankyeh/dsi-studio-qc
 	url = https://github.com/frankyeh/dsi-studio-qc
 	datalad-url = https://github.com/frankyeh/dsi-studio-qc
+[submodule "apps/frankyeh/dsi-studio-src2fib"]
+	path = apps/frankyeh/dsi-studio-src2fib
+	url = https://github.com/frankyeh/dsi-studio-src2fib
+	datalad-url = https://github.com/frankyeh/dsi-studio-src2fib
