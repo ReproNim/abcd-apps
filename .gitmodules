@@ -1106,3 +1106,7 @@
 	path = apps/jkilmarx/app-template-python
 	url = https://github.com/jkilmarx/app-template-python
 	datalad-url = https://github.com/jkilmarx/app-template-python
+[submodule "apps/joy-neuro/bnbl_brainlife"]
+	path = apps/joy-neuro/bnbl_brainlife
+	url = https://github.com/joy-neuro/bnbl_brainlife
+	datalad-url = https://github.com/joy-neuro/bnbl_brainlife
