@@ -1154,3 +1154,7 @@
 	path = apps/kitchell/app-LBspectrum_matlab
 	url = https://github.com/kitchell/app-LBspectrum_matlab
 	datalad-url = https://github.com/kitchell/app-LBspectrum_matlab
+[submodule "apps/kitchell/app-plot3Dobjects"]
+	path = apps/kitchell/app-plot3Dobjects
+	url = https://github.com/kitchell/app-plot3Dobjects
+	datalad-url = https://github.com/kitchell/app-plot3Dobjects
