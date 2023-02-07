@@ -590,3 +590,7 @@
 	path = apps/brainlife/app-temp-parc-surface-deprecated-converter
 	url = https://github.com/brainlife/app-temp-parc-surface-deprecated-converter
 	datalad-url = https://github.com/brainlife/app-temp-parc-surface-deprecated-converter
+[submodule "apps/brainlife/app-testflip"]
+	path = apps/brainlife/app-testflip
+	url = https://github.com/brainlife/app-testflip
+	datalad-url = https://github.com/brainlife/app-testflip
