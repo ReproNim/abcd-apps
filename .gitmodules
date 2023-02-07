@@ -398,3 +398,7 @@
 	path = apps/brainlife/app-mrtrix3-preproc
 	url = https://github.com/brainlife/app-mrtrix3-preproc
 	datalad-url = https://github.com/brainlife/app-mrtrix3-preproc
+[submodule "apps/brainlife/app-mrtrix3-roi2roi-tracking"]
+	path = apps/brainlife/app-mrtrix3-roi2roi-tracking
+	url = https://github.com/brainlife/app-mrtrix3-roi2roi-tracking
+	datalad-url = https://github.com/brainlife/app-mrtrix3-roi2roi-tracking
