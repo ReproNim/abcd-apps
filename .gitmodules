@@ -930,3 +930,7 @@
 	path = apps/filipinascimento/bl-network-measurements
 	url = https://github.com/filipinascimento/bl-network-measurements
 	datalad-url = https://github.com/filipinascimento/bl-network-measurements
+[submodule "apps/filipinascimento/bl-network-nullmodel"]
+	path = apps/filipinascimento/bl-network-nullmodel
+	url = https://github.com/filipinascimento/bl-network-nullmodel
+	datalad-url = https://github.com/filipinascimento/bl-network-nullmodel
