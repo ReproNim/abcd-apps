@@ -162,3 +162,7 @@
 	path = apps/brainlife/app-converttck2trk
 	url = https://github.com/brainlife/app-converttck2trk
 	datalad-url = https://github.com/brainlife/app-converttck2trk
+[submodule "apps/brainlife/app-convert-tck-to-trk"]
+	path = apps/brainlife/app-convert-tck-to-trk
+	url = https://github.com/brainlife/app-convert-tck-to-trk
+	datalad-url = https://github.com/brainlife/app-convert-tck-to-trk
