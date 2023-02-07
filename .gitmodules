@@ -1166,3 +1166,7 @@
 	path = apps/kitchell/app-reconstructLBeigenfunction
 	url = https://github.com/kitchell/app-reconstructLBeigenfunction
 	datalad-url = https://github.com/kitchell/app-reconstructLBeigenfunction
+[submodule "apps/kitchell/app-wmMask"]
+	path = apps/kitchell/app-wmMask
+	url = https://github.com/kitchell/app-wmMask
+	datalad-url = https://github.com/kitchell/app-wmMask
