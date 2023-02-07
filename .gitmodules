@@ -858,3 +858,7 @@
 	path = apps/FarnazZE/bnbl-brainlife-clustering-edge-time-series
 	url = https://github.com/FarnazZE/bnbl-brainlife-clustering-edge-time-series
 	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-clustering-edge-time-series
+[submodule "apps/FarnazZE/bnbl-brainlife-create-edge-time-series"]
+	path = apps/FarnazZE/bnbl-brainlife-create-edge-time-series
+	url = https://github.com/FarnazZE/bnbl-brainlife-create-edge-time-series
+	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-create-edge-time-series
