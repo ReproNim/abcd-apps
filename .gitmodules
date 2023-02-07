@@ -362,3 +362,7 @@
 	path = apps/brainlife/app-make-mask-from-dtiinit
 	url = https://github.com/brainlife/app-make-mask-from-dtiinit
 	datalad-url = https://github.com/brainlife/app-make-mask-from-dtiinit
+[submodule "apps/brainlife/app-make-white-matter-mask-freesurfer"]
+	path = apps/brainlife/app-make-white-matter-mask-freesurfer
+	url = https://github.com/brainlife/app-make-white-matter-mask-freesurfer
+	datalad-url = https://github.com/brainlife/app-make-white-matter-mask-freesurfer
