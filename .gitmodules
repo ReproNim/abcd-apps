@@ -378,3 +378,7 @@
 	path = apps/brainlife/app-mriqc
 	url = https://github.com/brainlife/app-mriqc
 	datalad-url = https://github.com/brainlife/app-mriqc
+[submodule "apps/brainlife/app-mrtrix2-csd"]
+	path = apps/brainlife/app-mrtrix2-csd
+	url = https://github.com/brainlife/app-mrtrix2-csd
+	datalad-url = https://github.com/brainlife/app-mrtrix2-csd
