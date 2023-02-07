@@ -110,3 +110,7 @@
 	path = apps/brainlife/app-commit
 	url = https://github.com/brainlife/app-commit
 	datalad-url = https://github.com/brainlife/app-commit
+[submodule "apps/brainlife/app-compile-macro-micro-tract-stats"]
+	path = apps/brainlife/app-compile-macro-micro-tract-stats
+	url = https://github.com/brainlife/app-compile-macro-micro-tract-stats
+	datalad-url = https://github.com/brainlife/app-compile-macro-micro-tract-stats
