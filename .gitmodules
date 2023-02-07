@@ -226,3 +226,7 @@
 	path = apps/brainlife/app-dwi-debias
 	url = https://github.com/brainlife/app-dwi-debias
 	datalad-url = https://github.com/brainlife/app-dwi-debias
+[submodule "apps/brainlife/app-dwiToDtiinit"]
+	path = apps/brainlife/app-dwiToDtiinit
+	url = https://github.com/brainlife/app-dwiToDtiinit
+	datalad-url = https://github.com/brainlife/app-dwiToDtiinit
