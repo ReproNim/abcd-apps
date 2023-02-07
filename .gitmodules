@@ -438,3 +438,7 @@
 	path = apps/brainlife/app-noddi-amico
 	url = https://github.com/brainlife/app-noddi-amico
 	datalad-url = https://github.com/brainlife/app-noddi-amico
+[submodule "apps/brainlife/app-notch-filter"]
+	path = apps/brainlife/app-notch-filter
+	url = https://github.com/brainlife/app-notch-filter
+	datalad-url = https://github.com/brainlife/app-notch-filter
