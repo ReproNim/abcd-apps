@@ -742,3 +742,7 @@
 	path = apps/davhunt/app-analyzePRF
 	url = https://github.com/davhunt/app-analyzePRF
 	datalad-url = https://github.com/davhunt/app-analyzePRF
+[submodule "apps/davhunt/app-bayesian-retinotopy"]
+	path = apps/davhunt/app-bayesian-retinotopy
+	url = https://github.com/davhunt/app-bayesian-retinotopy
+	datalad-url = https://github.com/davhunt/app-bayesian-retinotopy
