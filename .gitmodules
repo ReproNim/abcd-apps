@@ -574,3 +574,7 @@
 	path = apps/brainlife/app-synthstrip
 	url = https://github.com/brainlife/app-synthstrip
 	datalad-url = https://github.com/brainlife/app-synthstrip
+[submodule "apps/brainlife/app-template-matlab"]
+	path = apps/brainlife/app-template-matlab
+	url = https://github.com/brainlife/app-template-matlab
+	datalad-url = https://github.com/brainlife/app-template-matlab
