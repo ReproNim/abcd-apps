@@ -366,3 +366,7 @@
 	path = apps/brainlife/app-make-white-matter-mask-freesurfer
 	url = https://github.com/brainlife/app-make-white-matter-mask-freesurfer
 	datalad-url = https://github.com/brainlife/app-make-white-matter-mask-freesurfer
+[submodule "apps/brainlife/app-maxwell-filter"]
+	path = apps/brainlife/app-maxwell-filter
+	url = https://github.com/brainlife/app-maxwell-filter
+	datalad-url = https://github.com/brainlife/app-maxwell-filter
