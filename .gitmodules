@@ -582,3 +582,7 @@
 	path = apps/brainlife/app-template-python
 	url = https://github.com/brainlife/app-template-python
 	datalad-url = https://github.com/brainlife/app-template-python
+[submodule "apps/brainlife/app-temporal-filtering"]
+	path = apps/brainlife/app-temporal-filtering
+	url = https://github.com/brainlife/app-temporal-filtering
+	datalad-url = https://github.com/brainlife/app-temporal-filtering
