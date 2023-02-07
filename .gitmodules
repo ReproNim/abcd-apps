@@ -306,3 +306,7 @@
 	path = apps/brainlife/app-fslDTIFIT
 	url = https://github.com/brainlife/app-fslDTIFIT
 	datalad-url = https://github.com/brainlife/app-fslDTIFIT
+[submodule "apps/brainlife/app-fsl-flirt"]
+	path = apps/brainlife/app-fsl-flirt
+	url = https://github.com/brainlife/app-fsl-flirt
+	datalad-url = https://github.com/brainlife/app-fsl-flirt
