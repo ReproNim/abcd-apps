@@ -10,3 +10,7 @@
 	path = apps/anibalsolon/app-reho
 	url = https://github.com/anibalsolon/app-reho
 	datalad-url = https://github.com/anibalsolon/app-reho
+[submodule "apps/anibalsolon/app-seed-correlation"]
+	path = apps/anibalsolon/app-seed-correlation
+	url = https://github.com/anibalsolon/app-seed-correlation
+	datalad-url = https://github.com/anibalsolon/app-seed-correlation
