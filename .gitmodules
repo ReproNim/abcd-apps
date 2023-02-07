@@ -994,3 +994,7 @@
 	path = apps/giulia-berto/app-extract-peaks
 	url = https://github.com/giulia-berto/app-extract-peaks
 	datalad-url = https://github.com/giulia-berto/app-extract-peaks
+[submodule "apps/giulia-berto/app-multi-lap"]
+	path = apps/giulia-berto/app-multi-lap
+	url = https://github.com/giulia-berto/app-multi-lap
+	datalad-url = https://github.com/giulia-berto/app-multi-lap
