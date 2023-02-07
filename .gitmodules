@@ -490,3 +490,7 @@
 	path = apps/brainlife/app-removeFirstB0
 	url = https://github.com/brainlife/app-removeFirstB0
 	datalad-url = https://github.com/brainlife/app-removeFirstB0
+[submodule "apps/brainlife/app-removeTractOutliers"]
+	path = apps/brainlife/app-removeTractOutliers
+	url = https://github.com/brainlife/app-removeTractOutliers
+	datalad-url = https://github.com/brainlife/app-removeTractOutliers
