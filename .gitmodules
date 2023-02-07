@@ -934,3 +934,7 @@
 	path = apps/filipinascimento/bl-network-nullmodel
 	url = https://github.com/filipinascimento/bl-network-nullmodel
 	datalad-url = https://github.com/filipinascimento/bl-network-nullmodel
+[submodule "apps/filipinascimento/bl-network-preprocess"]
+	path = apps/filipinascimento/bl-network-preprocess
+	url = https://github.com/filipinascimento/bl-network-preprocess
+	datalad-url = https://github.com/filipinascimento/bl-network-preprocess
