@@ -14,3 +14,7 @@
 	path = apps/anibalsolon/app-seed-correlation
 	url = https://github.com/anibalsolon/app-seed-correlation
 	datalad-url = https://github.com/anibalsolon/app-seed-correlation
+[submodule "apps/anibalsolon/bl-app-prfmodel"]
+	path = apps/anibalsolon/bl-app-prfmodel
+	url = https://github.com/anibalsolon/bl-app-prfmodel
+	datalad-url = https://github.com/anibalsolon/bl-app-prfmodel
