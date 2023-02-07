@@ -70,3 +70,7 @@
 	path = apps/brainlife/app-AFQclean
 	url = https://github.com/brainlife/app-AFQclean
 	datalad-url = https://github.com/brainlife/app-AFQclean
+[submodule "apps/brainlife/app-align-mp2rage-to-t1"]
+	path = apps/brainlife/app-align-mp2rage-to-t1
+	url = https://github.com/brainlife/app-align-mp2rage-to-t1
+	datalad-url = https://github.com/brainlife/app-align-mp2rage-to-t1
