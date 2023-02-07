@@ -1090,3 +1090,7 @@
 	path = apps/hanna-willis/app-combine-roi-scans
 	url = https://github.com/hanna-willis/app-combine-roi-scans
 	datalad-url = https://github.com/hanna-willis/app-combine-roi-scans
+[submodule "apps/hanna-willis/app-fslswap"]
+	path = apps/hanna-willis/app-fslswap
+	url = https://github.com/hanna-willis/app-fslswap
+	datalad-url = https://github.com/hanna-willis/app-fslswap
