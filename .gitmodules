@@ -426,3 +426,7 @@
 	path = apps/brainlife/app-networkneuro
 	url = https://github.com/brainlife/app-networkneuro
 	datalad-url = https://github.com/brainlife/app-networkneuro
+[submodule "apps/brainlife/app-networkneuro-agg"]
+	path = apps/brainlife/app-networkneuro-agg
+	url = https://github.com/brainlife/app-networkneuro-agg
+	datalad-url = https://github.com/brainlife/app-networkneuro-agg
