@@ -326,3 +326,7 @@
 	path = apps/brainlife/app-hcp-cortex-mapping-replication
 	url = https://github.com/brainlife/app-hcp-cortex-mapping-replication
 	datalad-url = https://github.com/brainlife/app-hcp-cortex-mapping-replication
+[submodule "apps/brainlife/app-hcp-freesurfer"]
+	path = apps/brainlife/app-hcp-freesurfer
+	url = https://github.com/brainlife/app-hcp-freesurfer
+	datalad-url = https://github.com/brainlife/app-hcp-freesurfer
