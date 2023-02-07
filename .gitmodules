@@ -678,3 +678,7 @@
 	path = apps/brainlife/app-wmc_figures
 	url = https://github.com/brainlife/app-wmc_figures
 	datalad-url = https://github.com/brainlife/app-wmc_figures
+[submodule "apps/brainlife/app-wmctotrk"]
+	path = apps/brainlife/app-wmctotrk
+	url = https://github.com/brainlife/app-wmctotrk
+	datalad-url = https://github.com/brainlife/app-wmctotrk
