@@ -746,3 +746,7 @@
 	path = apps/davhunt/app-bayesian-retinotopy
 	url = https://github.com/davhunt/app-bayesian-retinotopy
 	datalad-url = https://github.com/davhunt/app-bayesian-retinotopy
+[submodule "apps/davhunt/app-benson14-retinotopy"]
+	path = apps/davhunt/app-benson14-retinotopy
+	url = https://github.com/davhunt/app-benson14-retinotopy
+	datalad-url = https://github.com/davhunt/app-benson14-retinotopy
