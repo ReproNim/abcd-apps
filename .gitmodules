@@ -402,3 +402,7 @@
 	path = apps/brainlife/app-mrtrix3-roi2roi-tracking
 	url = https://github.com/brainlife/app-mrtrix3-roi2roi-tracking
 	datalad-url = https://github.com/brainlife/app-mrtrix3-roi2roi-tracking
+[submodule "apps/brainlife/app-mrtrix3-split-b0s"]
+	path = apps/brainlife/app-mrtrix3-split-b0s
+	url = https://github.com/brainlife/app-mrtrix3-split-b0s
+	datalad-url = https://github.com/brainlife/app-mrtrix3-split-b0s
