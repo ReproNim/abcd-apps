@@ -98,3 +98,7 @@
 	path = apps/brainlife/app-classifiedfibertractstats
 	url = https://github.com/brainlife/app-classifiedfibertractstats
 	datalad-url = https://github.com/brainlife/app-classifiedfibertractstats
+[submodule "apps/brainlife/app-clean-parcellation"]
+	path = apps/brainlife/app-clean-parcellation
+	url = https://github.com/brainlife/app-clean-parcellation
+	datalad-url = https://github.com/brainlife/app-clean-parcellation
