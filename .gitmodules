@@ -506,3 +506,7 @@
 	path = apps/brainlife/app-roi2roitracking
 	url = https://github.com/brainlife/app-roi2roitracking
 	datalad-url = https://github.com/brainlife/app-roi2roitracking
+[submodule "apps/brainlife/app-roiGenerator"]
+	path = apps/brainlife/app-roiGenerator
+	url = https://github.com/brainlife/app-roiGenerator
+	datalad-url = https://github.com/brainlife/app-roiGenerator
