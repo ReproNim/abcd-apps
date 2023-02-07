@@ -990,3 +990,7 @@
 	path = apps/giulia-berto/app-compute-dsc
 	url = https://github.com/giulia-berto/app-compute-dsc
 	datalad-url = https://github.com/giulia-berto/app-compute-dsc
+[submodule "apps/giulia-berto/app-extract-peaks"]
+	path = apps/giulia-berto/app-extract-peaks
+	url = https://github.com/giulia-berto/app-extract-peaks
+	datalad-url = https://github.com/giulia-berto/app-extract-peaks
