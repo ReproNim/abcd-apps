@@ -662,3 +662,7 @@
 	path = apps/brainlife/app-warp-t1
 	url = https://github.com/brainlife/app-warp-t1
 	datalad-url = https://github.com/brainlife/app-warp-t1
+[submodule "apps/brainlife/app-warp-tractogram"]
+	path = apps/brainlife/app-warp-tractogram
+	url = https://github.com/brainlife/app-warp-tractogram
+	datalad-url = https://github.com/brainlife/app-warp-tractogram
