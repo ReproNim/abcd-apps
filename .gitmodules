@@ -142,3 +142,7 @@
 	path = apps/brainlife/app-connectome-evaluator
 	url = https://github.com/brainlife/app-connectome-evaluator
 	datalad-url = https://github.com/brainlife/app-connectome-evaluator
+[submodule "apps/brainlife/app-contrack-optic-radiation"]
+	path = apps/brainlife/app-contrack-optic-radiation
+	url = https://github.com/brainlife/app-contrack-optic-radiation
+	datalad-url = https://github.com/brainlife/app-contrack-optic-radiation
