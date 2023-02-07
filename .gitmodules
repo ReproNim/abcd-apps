@@ -838,3 +838,7 @@
 	path = apps/dipy/bl_apps_dipy_slr
 	url = https://github.com/dipy/bl_apps_dipy_slr
 	datalad-url = https://github.com/dipy/bl_apps_dipy_slr
+[submodule "apps/dipy/bl_apps_dipy_track"]
+	path = apps/dipy/bl_apps_dipy_track
+	url = https://github.com/dipy/bl_apps_dipy_track
+	datalad-url = https://github.com/dipy/bl_apps_dipy_track
