@@ -262,3 +262,7 @@
 	path = apps/brainlife/app-extractTCKfromWMC
 	url = https://github.com/brainlife/app-extractTCKfromWMC
 	datalad-url = https://github.com/brainlife/app-extractTCKfromWMC
+[submodule "apps/brainlife/app-filter-tractograms"]
+	path = apps/brainlife/app-filter-tractograms
+	url = https://github.com/brainlife/app-filter-tractograms
+	datalad-url = https://github.com/brainlife/app-filter-tractograms
