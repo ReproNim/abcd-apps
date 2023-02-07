@@ -330,3 +330,7 @@
 	path = apps/brainlife/app-hcp-freesurfer
 	url = https://github.com/brainlife/app-hcp-freesurfer
 	datalad-url = https://github.com/brainlife/app-hcp-freesurfer
+[submodule "apps/brainlife/app-hcp-pipeline"]
+	path = apps/brainlife/app-hcp-pipeline
+	url = https://github.com/brainlife/app-hcp-pipeline
+	datalad-url = https://github.com/brainlife/app-hcp-pipeline
