@@ -1082,3 +1082,7 @@
 	path = apps/guiomar/app-peak-frequency
 	url = https://github.com/guiomar/app-peak-frequency
 	datalad-url = https://github.com/guiomar/app-peak-frequency
+[submodule "apps/guiomar/app-psd"]
+	path = apps/guiomar/app-psd
+	url = https://github.com/guiomar/app-psd
+	datalad-url = https://github.com/guiomar/app-psd
