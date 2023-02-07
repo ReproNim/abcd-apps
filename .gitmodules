@@ -2,3 +2,7 @@
 	path = apps/amnsbr/app-remove-first-volumes
 	url = https://github.com/amnsbr/app-remove-first-volumes
 	datalad-url = https://github.com/amnsbr/app-remove-first-volumes
+[submodule "apps/anibalsolon/app-connectivity-gradient"]
+	path = apps/anibalsolon/app-connectivity-gradient
+	url = https://github.com/anibalsolon/app-connectivity-gradient
+	datalad-url = https://github.com/anibalsolon/app-connectivity-gradient
