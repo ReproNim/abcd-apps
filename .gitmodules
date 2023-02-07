@@ -18,3 +18,7 @@
 	path = apps/anibalsolon/bl-app-prfmodel
 	url = https://github.com/anibalsolon/bl-app-prfmodel
 	datalad-url = https://github.com/anibalsolon/bl-app-prfmodel
+[submodule "apps/anibalsolon/HD-BET_app"]
+	path = apps/anibalsolon/HD-BET_app
+	url = https://github.com/anibalsolon/HD-BET_app
+	datalad-url = https://github.com/anibalsolon/HD-BET_app
