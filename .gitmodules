@@ -1170,3 +1170,7 @@
 	path = apps/kitchell/app-wmMask
 	url = https://github.com/kitchell/app-wmMask
 	datalad-url = https://github.com/kitchell/app-wmMask
+[submodule "apps/mandymejia/app-clever"]
+	path = apps/mandymejia/app-clever
+	url = https://github.com/mandymejia/app-clever
+	datalad-url = https://github.com/mandymejia/app-clever
