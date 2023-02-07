@@ -242,3 +242,7 @@
 	path = apps/brainlife/app-ensembletracking
 	url = https://github.com/brainlife/app-ensembletracking
 	datalad-url = https://github.com/brainlife/app-ensembletracking
+[submodule "apps/brainlife/app-epi-t1-registration"]
+	path = apps/brainlife/app-epi-t1-registration
+	url = https://github.com/brainlife/app-epi-t1-registration
+	datalad-url = https://github.com/brainlife/app-epi-t1-registration
