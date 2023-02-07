@@ -802,3 +802,7 @@
 	path = apps/dipy/bl_apps_dipy_fit_dti
 	url = https://github.com/dipy/bl_apps_dipy_fit_dti
 	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_dti
+[submodule "apps/dipy/bl_apps_dipy_fit_ivim"]
+	path = apps/dipy/bl_apps_dipy_fit_ivim
+	url = https://github.com/dipy/bl_apps_dipy_fit_ivim
+	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_ivim
