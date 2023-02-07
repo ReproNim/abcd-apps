@@ -654,3 +654,7 @@
 	path = apps/brainlife/app-vistasoft-registration
 	url = https://github.com/brainlife/app-vistasoft-registration
 	datalad-url = https://github.com/brainlife/app-vistasoft-registration
+[submodule "apps/brainlife/app-warp-bold"]
+	path = apps/brainlife/app-warp-bold
+	url = https://github.com/brainlife/app-warp-bold
+	datalad-url = https://github.com/brainlife/app-warp-bold
