@@ -238,3 +238,7 @@
 	path = apps/brainlife/app-endpointMapGeneration
 	url = https://github.com/brainlife/app-endpointMapGeneration
 	datalad-url = https://github.com/brainlife/app-endpointMapGeneration
+[submodule "apps/brainlife/app-ensembletracking"]
+	path = apps/brainlife/app-ensembletracking
+	url = https://github.com/brainlife/app-ensembletracking
+	datalad-url = https://github.com/brainlife/app-ensembletracking
