@@ -1126,3 +1126,7 @@
 	path = apps/kitchell/app-3DPialWM_freesurfer
 	url = https://github.com/kitchell/app-3DPialWM_freesurfer
 	datalad-url = https://github.com/kitchell/app-3DPialWM_freesurfer
+[submodule "apps/kitchell/app-AFQ_figures"]
+	path = apps/kitchell/app-AFQ_figures
+	url = https://github.com/kitchell/app-AFQ_figures
+	datalad-url = https://github.com/kitchell/app-AFQ_figures
