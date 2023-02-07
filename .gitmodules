@@ -194,3 +194,7 @@
 	path = apps/brainlife/app-create-networkneuro
 	url = https://github.com/brainlife/app-create-networkneuro
 	datalad-url = https://github.com/brainlife/app-create-networkneuro
+[submodule "apps/brainlife/app-crop_reorient"]
+	path = apps/brainlife/app-crop_reorient
+	url = https://github.com/brainlife/app-crop_reorient
+	datalad-url = https://github.com/brainlife/app-crop_reorient
