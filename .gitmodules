@@ -50,3 +50,7 @@
 	path = apps/bacaron/app-reslice-rois-dwi
 	url = https://github.com/bacaron/app-reslice-rois-dwi
 	datalad-url = https://github.com/bacaron/app-reslice-rois-dwi
+[submodule "apps/bacaron/app-reslice-roi-t1"]
+	path = apps/bacaron/app-reslice-roi-t1
+	url = https://github.com/bacaron/app-reslice-roi-t1
+	datalad-url = https://github.com/bacaron/app-reslice-roi-t1
