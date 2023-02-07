@@ -674,3 +674,7 @@
 	path = apps/brainlife/app-wmaSeg
 	url = https://github.com/brainlife/app-wmaSeg
 	datalad-url = https://github.com/brainlife/app-wmaSeg
+[submodule "apps/brainlife/app-wmc_figures"]
+	path = apps/brainlife/app-wmc_figures
+	url = https://github.com/brainlife/app-wmc_figures
+	datalad-url = https://github.com/brainlife/app-wmc_figures
