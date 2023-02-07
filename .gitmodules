@@ -898,3 +898,7 @@
 	path = apps/FBK-NILab/bl_app_dbb_DisSeg
 	url = https://github.com/FBK-NILab/bl_app_dbb_DisSeg
 	datalad-url = https://github.com/FBK-NILab/bl_app_dbb_DisSeg
+[submodule "apps/FBK-NILab/bl_app_dbb_preproc_t1w"]
+	path = apps/FBK-NILab/bl_app_dbb_preproc_t1w
+	url = https://github.com/FBK-NILab/bl_app_dbb_preproc_t1w
+	datalad-url = https://github.com/FBK-NILab/bl_app_dbb_preproc_t1w
