@@ -1098,3 +1098,7 @@
 	path = apps/hanna-willis/app-roi-fslmaths
 	url = https://github.com/hanna-willis/app-roi-fslmaths
 	datalad-url = https://github.com/hanna-willis/app-roi-fslmaths
+[submodule "apps/JacobColbyTanner/bnbl_brainlife"]
+	path = apps/JacobColbyTanner/bnbl_brainlife
+	url = https://github.com/JacobColbyTanner/bnbl_brainlife
+	datalad-url = https://github.com/JacobColbyTanner/bnbl_brainlife
