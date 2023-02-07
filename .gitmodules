@@ -1114,3 +1114,7 @@
 	path = apps/kathrynalpert/app-bids-mrtrix3_connectome
 	url = https://github.com/kathrynalpert/app-bids-mrtrix3_connectome
 	datalad-url = https://github.com/kathrynalpert/app-bids-mrtrix3_connectome
+[submodule "apps/kathrynalpert/app-mouse_seg"]
+	path = apps/kathrynalpert/app-mouse_seg
+	url = https://github.com/kathrynalpert/app-mouse_seg
+	datalad-url = https://github.com/kathrynalpert/app-mouse_seg
