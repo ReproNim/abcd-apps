@@ -666,3 +666,7 @@
 	path = apps/brainlife/app-warp-tractogram
 	url = https://github.com/brainlife/app-warp-tractogram
 	datalad-url = https://github.com/brainlife/app-warp-tractogram
+[submodule "apps/brainlife/app-white-matter-mask-fa"]
+	path = apps/brainlife/app-white-matter-mask-fa
+	url = https://github.com/brainlife/app-white-matter-mask-fa
+	datalad-url = https://github.com/brainlife/app-white-matter-mask-fa
