@@ -510,3 +510,7 @@
 	path = apps/brainlife/app-roiGenerator
 	url = https://github.com/brainlife/app-roiGenerator
 	datalad-url = https://github.com/brainlife/app-roiGenerator
+[submodule "apps/brainlife/app-ROIsfromAtlas"]
+	path = apps/brainlife/app-ROIsfromAtlas
+	url = https://github.com/brainlife/app-ROIsfromAtlas
+	datalad-url = https://github.com/brainlife/app-ROIsfromAtlas
