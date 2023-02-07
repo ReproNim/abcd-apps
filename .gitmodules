@@ -470,3 +470,7 @@
 	path = apps/brainlife/app-pydeface
 	url = https://github.com/brainlife/app-pydeface
 	datalad-url = https://github.com/brainlife/app-pydeface
+[submodule "apps/brainlife/app-pynets"]
+	path = apps/brainlife/app-pynets
+	url = https://github.com/brainlife/app-pynets
+	datalad-url = https://github.com/brainlife/app-pynets
