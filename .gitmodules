@@ -918,3 +918,7 @@
 	path = apps/FCP-INDI/app-C-PAC-brainlife.io
 	url = https://github.com/FCP-INDI/app-C-PAC-brainlife.io
 	datalad-url = https://github.com/FCP-INDI/app-C-PAC-brainlife.io
+[submodule "apps/filipinascimento/bl-conmat2network"]
+	path = apps/filipinascimento/bl-conmat2network
+	url = https://github.com/filipinascimento/bl-conmat2network
+	datalad-url = https://github.com/filipinascimento/bl-conmat2network
