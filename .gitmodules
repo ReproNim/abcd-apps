@@ -702,3 +702,7 @@
 	path = apps/DanNBullock/app-createMNI_ROIS_and_warp2subj
 	url = https://github.com/DanNBullock/app-createMNI_ROIS_and_warp2subj
 	datalad-url = https://github.com/DanNBullock/app-createMNI_ROIS_and_warp2subj
+[submodule "apps/DanNBullock/app-de-island_parcellation"]
+	path = apps/DanNBullock/app-de-island_parcellation
+	url = https://github.com/DanNBullock/app-de-island_parcellation
+	datalad-url = https://github.com/DanNBullock/app-de-island_parcellation
