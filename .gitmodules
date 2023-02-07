@@ -410,3 +410,7 @@
 	path = apps/brainlife/app-mrtrix3-tensor-fit
 	url = https://github.com/brainlife/app-mrtrix3-tensor-fit
 	datalad-url = https://github.com/brainlife/app-mrtrix3-tensor-fit
+[submodule "apps/brainlife/app-myelin-mapping"]
+	path = apps/brainlife/app-myelin-mapping
+	url = https://github.com/brainlife/app-myelin-mapping
+	datalad-url = https://github.com/brainlife/app-myelin-mapping
