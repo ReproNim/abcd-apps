@@ -846,3 +846,7 @@
 	path = apps/dipy/bl_apps_dipy_track_pft
 	url = https://github.com/dipy/bl_apps_dipy_track_pft
 	datalad-url = https://github.com/dipy/bl_apps_dipy_track_pft
+[submodule "apps/dPys/app-extract_b0_masks"]
+	path = apps/dPys/app-extract_b0_masks
+	url = https://github.com/dPys/app-extract_b0_masks
+	datalad-url = https://github.com/dPys/app-extract_b0_masks
