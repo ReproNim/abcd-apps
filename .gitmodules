@@ -30,3 +30,7 @@
 	path = apps/bacaron/app-combine-2d-to-3d
 	url = https://github.com/bacaron/app-combine-2d-to-3d
 	datalad-url = https://github.com/bacaron/app-combine-2d-to-3d
+[submodule "apps/bacaron/app-filter-wmc"]
+	path = apps/bacaron/app-filter-wmc
+	url = https://github.com/bacaron/app-filter-wmc
+	datalad-url = https://github.com/bacaron/app-filter-wmc
