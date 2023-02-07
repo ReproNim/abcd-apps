@@ -90,3 +90,7 @@
 	path = apps/brainlife/app-checkOrientation
 	url = https://github.com/brainlife/app-checkOrientation
 	datalad-url = https://github.com/brainlife/app-checkOrientation
+[submodule "apps/brainlife/app-CIT168Parc"]
+	path = apps/brainlife/app-CIT168Parc
+	url = https://github.com/brainlife/app-CIT168Parc
+	datalad-url = https://github.com/brainlife/app-CIT168Parc
