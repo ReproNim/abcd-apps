@@ -34,3 +34,7 @@
 	path = apps/bacaron/app-filter-wmc
 	url = https://github.com/bacaron/app-filter-wmc
 	datalad-url = https://github.com/bacaron/app-filter-wmc
+[submodule "apps/bacaron/app-freesurfer"]
+	path = apps/bacaron/app-freesurfer
+	url = https://github.com/bacaron/app-freesurfer
+	datalad-url = https://github.com/bacaron/app-freesurfer
