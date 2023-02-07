@@ -622,3 +622,7 @@
 	path = apps/brainlife/app-tractDensityMasks
 	url = https://github.com/brainlife/app-tractDensityMasks
 	datalad-url = https://github.com/brainlife/app-tractDensityMasks
+[submodule "apps/brainlife/app-tractographyQualityCheck"]
+	path = apps/brainlife/app-tractographyQualityCheck
+	url = https://github.com/brainlife/app-tractographyQualityCheck
+	datalad-url = https://github.com/brainlife/app-tractographyQualityCheck
