@@ -706,3 +706,7 @@
 	path = apps/DanNBullock/app-de-island_parcellation
 	url = https://github.com/DanNBullock/app-de-island_parcellation
 	datalad-url = https://github.com/DanNBullock/app-de-island_parcellation
+[submodule "apps/DanNBullock/app-DIPY-connectome_and_WMC_from_parc"]
+	path = apps/DanNBullock/app-DIPY-connectome_and_WMC_from_parc
+	url = https://github.com/DanNBullock/app-DIPY-connectome_and_WMC_from_parc
+	datalad-url = https://github.com/DanNBullock/app-DIPY-connectome_and_WMC_from_parc
