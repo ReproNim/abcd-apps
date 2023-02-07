@@ -498,3 +498,7 @@
 	path = apps/brainlife/app-resample-surface-data
 	url = https://github.com/brainlife/app-resample-surface-data
 	datalad-url = https://github.com/brainlife/app-resample-surface-data
+[submodule "apps/brainlife/app-reslice-isotropic"]
+	path = apps/brainlife/app-reslice-isotropic
+	url = https://github.com/brainlife/app-reslice-isotropic
+	datalad-url = https://github.com/brainlife/app-reslice-isotropic
