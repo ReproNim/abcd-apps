@@ -646,3 +646,7 @@
 	path = apps/brainlife/app-trekker-roi-tracking
 	url = https://github.com/brainlife/app-trekker-roi-tracking
 	datalad-url = https://github.com/brainlife/app-trekker-roi-tracking
+[submodule "apps/brainlife/app-trk2tck"]
+	path = apps/brainlife/app-trk2tck
+	url = https://github.com/brainlife/app-trk2tck
+	datalad-url = https://github.com/brainlife/app-trk2tck
