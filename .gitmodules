@@ -726,3 +726,7 @@
 	path = apps/DanNBullock/app-tcks_to_tck_and_WMC
 	url = https://github.com/DanNBullock/app-tcks_to_tck_and_WMC
 	datalad-url = https://github.com/DanNBullock/app-tcks_to_tck_and_WMC
+[submodule "apps/DanNBullock/app-track_aLIC"]
+	path = apps/DanNBullock/app-track_aLIC
+	url = https://github.com/DanNBullock/app-track_aLIC
+	datalad-url = https://github.com/DanNBullock/app-track_aLIC
