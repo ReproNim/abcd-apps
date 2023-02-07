@@ -546,3 +546,7 @@
 	path = apps/brainlife/app-snr_in_cc
 	url = https://github.com/brainlife/app-snr_in_cc
 	datalad-url = https://github.com/brainlife/app-snr_in_cc
+[submodule "apps/brainlife/app-socr-mlra"]
+	path = apps/brainlife/app-socr-mlra
+	url = https://github.com/brainlife/app-socr-mlra
+	datalad-url = https://github.com/brainlife/app-socr-mlra
