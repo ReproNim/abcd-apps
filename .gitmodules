@@ -866,3 +866,7 @@
 	path = apps/FarnazZE/bnbl-brainlife-predict-fc-from-sc
 	url = https://github.com/FarnazZE/bnbl-brainlife-predict-fc-from-sc
 	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-predict-fc-from-sc
+[submodule "apps/FarnazZE/bnbl-brainlife-sc-based-predictors"]
+	path = apps/FarnazZE/bnbl-brainlife-sc-based-predictors
+	url = https://github.com/FarnazZE/bnbl-brainlife-sc-based-predictors
+	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-sc-based-predictors
