@@ -906,3 +906,7 @@
 	path = apps/FBK-NILab/fractal_dimension
 	url = https://github.com/FBK-NILab/fractal_dimension
 	datalad-url = https://github.com/FBK-NILab/fractal_dimension
+[submodule "apps/FBK-NILab/tractogram_filtering"]
+	path = apps/FBK-NILab/tractogram_filtering
+	url = https://github.com/FBK-NILab/tractogram_filtering
+	datalad-url = https://github.com/FBK-NILab/tractogram_filtering
