@@ -1030,3 +1030,7 @@
 	path = apps/guiomar/app-bands-topomap
 	url = https://github.com/guiomar/app-bands-topomap
 	datalad-url = https://github.com/guiomar/app-bands-topomap
+[submodule "apps/guiomar/app_bdf2mne"]
+	path = apps/guiomar/app_bdf2mne
+	url = https://github.com/guiomar/app_bdf2mne
+	datalad-url = https://github.com/guiomar/app_bdf2mne
