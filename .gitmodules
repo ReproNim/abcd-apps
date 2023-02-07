@@ -1138,3 +1138,7 @@
 	path = apps/kitchell/app-binvolvolume
 	url = https://github.com/kitchell/app-binvolvolume
 	datalad-url = https://github.com/kitchell/app-binvolvolume
+[submodule "apps/kitchell/app-decimatemesh"]
+	path = apps/kitchell/app-decimatemesh
+	url = https://github.com/kitchell/app-decimatemesh
+	datalad-url = https://github.com/kitchell/app-decimatemesh
