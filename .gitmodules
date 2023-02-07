@@ -610,3 +610,7 @@
 	path = apps/brainlife/app-tracking
 	url = https://github.com/brainlife/app-tracking
 	datalad-url = https://github.com/brainlife/app-tracking
+[submodule "apps/brainlife/app-tractanalysisprofiles"]
+	path = apps/brainlife/app-tractanalysisprofiles
+	url = https://github.com/brainlife/app-tractanalysisprofiles
+	datalad-url = https://github.com/brainlife/app-tractanalysisprofiles
