@@ -1046,3 +1046,7 @@
 	path = apps/guiomar/app_edf2mne
 	url = https://github.com/guiomar/app_edf2mne
 	datalad-url = https://github.com/guiomar/app_edf2mne
+[submodule "apps/guiomar/app_eeglab2mne"]
+	path = apps/guiomar/app_eeglab2mne
+	url = https://github.com/guiomar/app_eeglab2mne
+	datalad-url = https://github.com/guiomar/app_eeglab2mne
