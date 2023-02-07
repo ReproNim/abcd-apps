@@ -62,3 +62,7 @@
 	path = apps/bcmcpher/app-StructuralCountNetwork
 	url = https://github.com/bcmcpher/app-StructuralCountNetwork
 	datalad-url = https://github.com/bcmcpher/app-StructuralCountNetwork
+[submodule "apps/brainlife/app-acpcART"]
+	path = apps/brainlife/app-acpcART
+	url = https://github.com/brainlife/app-acpcART
+	datalad-url = https://github.com/brainlife/app-acpcART
