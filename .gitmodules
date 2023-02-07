@@ -314,3 +314,7 @@
 	path = apps/brainlife/app-FSLTopupEddy
 	url = https://github.com/brainlife/app-FSLTopupEddy
 	datalad-url = https://github.com/brainlife/app-FSLTopupEddy
+[submodule "apps/brainlife/app-get-events"]
+	path = apps/brainlife/app-get-events
+	url = https://github.com/brainlife/app-get-events
+	datalad-url = https://github.com/brainlife/app-get-events
