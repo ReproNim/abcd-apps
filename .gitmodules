@@ -446,3 +446,7 @@
 	path = apps/brainlife/app-participant-report
 	url = https://github.com/brainlife/app-participant-report
 	datalad-url = https://github.com/brainlife/app-participant-report
+[submodule "apps/brainlife/app-plot-odf"]
+	path = apps/brainlife/app-plot-odf
+	url = https://github.com/brainlife/app-plot-odf
+	datalad-url = https://github.com/brainlife/app-plot-odf
