@@ -246,3 +246,7 @@
 	path = apps/brainlife/app-epi-t1-registration
 	url = https://github.com/brainlife/app-epi-t1-registration
 	datalad-url = https://github.com/brainlife/app-epi-t1-registration
+[submodule "apps/brainlife/app-extract-bundles-quickbundles"]
+	path = apps/brainlife/app-extract-bundles-quickbundles
+	url = https://github.com/brainlife/app-extract-bundles-quickbundles
+	datalad-url = https://github.com/brainlife/app-extract-bundles-quickbundles
