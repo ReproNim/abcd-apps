@@ -290,3 +290,7 @@
 	path = apps/brainlife/app-freesurfer-osg
 	url = https://github.com/brainlife/app-freesurfer-osg
 	datalad-url = https://github.com/brainlife/app-freesurfer-osg
+[submodule "apps/brainlife/app-freesurfer-stats"]
+	path = apps/brainlife/app-freesurfer-stats
+	url = https://github.com/brainlife/app-freesurfer-stats
+	datalad-url = https://github.com/brainlife/app-freesurfer-stats
