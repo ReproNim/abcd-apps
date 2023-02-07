@@ -22,3 +22,7 @@
 	path = apps/anibalsolon/HD-BET_app
 	url = https://github.com/anibalsolon/HD-BET_app
 	datalad-url = https://github.com/anibalsolon/HD-BET_app
+[submodule "apps/anibalsolon/PRFmodel-app"]
+	path = apps/anibalsolon/PRFmodel-app
+	url = https://github.com/anibalsolon/PRFmodel-app
+	datalad-url = https://github.com/anibalsolon/PRFmodel-app
