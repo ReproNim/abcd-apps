@@ -810,3 +810,7 @@
 	path = apps/dipy/bl_apps_dipy_fit_mapmri
 	url = https://github.com/dipy/bl_apps_dipy_fit_mapmri
 	datalad-url = https://github.com/dipy/bl_apps_dipy_fit_mapmri
+[submodule "apps/dipy/bl_apps_dipy_gibbs_ringing"]
+	path = apps/dipy/bl_apps_dipy_gibbs_ringing
+	url = https://github.com/dipy/bl_apps_dipy_gibbs_ringing
+	datalad-url = https://github.com/dipy/bl_apps_dipy_gibbs_ringing
