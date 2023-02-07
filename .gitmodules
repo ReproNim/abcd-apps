@@ -318,3 +318,7 @@
 	path = apps/brainlife/app-get-events
 	url = https://github.com/brainlife/app-get-events
 	datalad-url = https://github.com/brainlife/app-get-events
+[submodule "apps/brainlife/app-hcp-acpc-alignment"]
+	path = apps/brainlife/app-hcp-acpc-alignment
+	url = https://github.com/brainlife/app-hcp-acpc-alignment
+	datalad-url = https://github.com/brainlife/app-hcp-acpc-alignment
