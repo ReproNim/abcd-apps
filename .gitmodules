@@ -606,3 +606,7 @@
 	path = apps/brainlife/app-time-series-2-network
 	url = https://github.com/brainlife/app-time-series-2-network
 	datalad-url = https://github.com/brainlife/app-time-series-2-network
+[submodule "apps/brainlife/app-tracking"]
+	path = apps/brainlife/app-tracking
+	url = https://github.com/brainlife/app-tracking
+	datalad-url = https://github.com/brainlife/app-tracking
