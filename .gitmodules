@@ -170,3 +170,7 @@
 	path = apps/brainlife/app-convert-tractmasks-to-rois
 	url = https://github.com/brainlife/app-convert-tractmasks-to-rois
 	datalad-url = https://github.com/brainlife/app-convert-tractmasks-to-rois
+[submodule "apps/brainlife/app-convert-tractmeasures-2-tractprofile"]
+	path = apps/brainlife/app-convert-tractmeasures-2-tractprofile
+	url = https://github.com/brainlife/app-convert-tractmeasures-2-tractprofile
+	datalad-url = https://github.com/brainlife/app-convert-tractmeasures-2-tractprofile
