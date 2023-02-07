@@ -138,3 +138,7 @@
 	path = apps/brainlife/app-compute-tract-stats
 	url = https://github.com/brainlife/app-compute-tract-stats
 	datalad-url = https://github.com/brainlife/app-compute-tract-stats
+[submodule "apps/brainlife/app-connectome-evaluator"]
+	path = apps/brainlife/app-connectome-evaluator
+	url = https://github.com/brainlife/app-connectome-evaluator
+	datalad-url = https://github.com/brainlife/app-connectome-evaluator
