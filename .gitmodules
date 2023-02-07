@@ -130,3 +130,7 @@
 	path = apps/brainlife/app-compute-similarity-parcellations
 	url = https://github.com/brainlife/app-compute-similarity-parcellations
 	datalad-url = https://github.com/brainlife/app-compute-similarity-parcellations
+[submodule "apps/brainlife/app-compute-temporal-snr"]
+	path = apps/brainlife/app-compute-temporal-snr
+	url = https://github.com/brainlife/app-compute-temporal-snr
+	datalad-url = https://github.com/brainlife/app-compute-temporal-snr
