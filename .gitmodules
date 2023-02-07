@@ -486,3 +486,7 @@
 	path = apps/brainlife/app-register-rois-mni
 	url = https://github.com/brainlife/app-register-rois-mni
 	datalad-url = https://github.com/brainlife/app-register-rois-mni
+[submodule "apps/brainlife/app-removeFirstB0"]
+	path = apps/brainlife/app-removeFirstB0
+	url = https://github.com/brainlife/app-removeFirstB0
+	datalad-url = https://github.com/brainlife/app-removeFirstB0
