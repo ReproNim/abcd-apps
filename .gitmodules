@@ -982,3 +982,7 @@
 	path = apps/giulia-berto/app-ants-FA-registration
 	url = https://github.com/giulia-berto/app-ants-FA-registration
 	datalad-url = https://github.com/giulia-berto/app-ants-FA-registration
+[submodule "apps/giulia-berto/app-ants-mni"]
+	path = apps/giulia-berto/app-ants-mni
+	url = https://github.com/giulia-berto/app-ants-mni
+	datalad-url = https://github.com/giulia-berto/app-ants-mni
