@@ -762,3 +762,7 @@
 	path = apps/davhunt/app-prfv2
 	url = https://github.com/davhunt/app-prfv2
 	datalad-url = https://github.com/davhunt/app-prfv2
+[submodule "apps/davhunt/app-qoala-t-model-a"]
+	path = apps/davhunt/app-qoala-t-model-a
+	url = https://github.com/davhunt/app-qoala-t-model-a
+	datalad-url = https://github.com/davhunt/app-qoala-t-model-a
