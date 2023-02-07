@@ -474,3 +474,7 @@
 	path = apps/brainlife/app-pynets
 	url = https://github.com/brainlife/app-pynets
 	datalad-url = https://github.com/brainlife/app-pynets
+[submodule "apps/brainlife/app-qsiprep"]
+	path = apps/brainlife/app-qsiprep
+	url = https://github.com/brainlife/app-qsiprep
+	datalad-url = https://github.com/brainlife/app-qsiprep
