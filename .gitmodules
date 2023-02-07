@@ -598,3 +598,7 @@
 	path = apps/brainlife/app-testgradientflip
 	url = https://github.com/brainlife/app-testgradientflip
 	datalad-url = https://github.com/brainlife/app-testgradientflip
+[submodule "apps/brainlife/app-thickness-volume-eccentricity"]
+	path = apps/brainlife/app-thickness-volume-eccentricity
+	url = https://github.com/brainlife/app-thickness-volume-eccentricity
+	datalad-url = https://github.com/brainlife/app-thickness-volume-eccentricity
