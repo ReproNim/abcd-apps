@@ -1018,3 +1018,7 @@
 	path = apps/guiomar/app-average-channels
 	url = https://github.com/guiomar/app-average-channels
 	datalad-url = https://github.com/guiomar/app-average-channels
+[submodule "apps/guiomar/app-average-erp"]
+	path = apps/guiomar/app-average-erp
+	url = https://github.com/guiomar/app-average-erp
+	datalad-url = https://github.com/guiomar/app-average-erp
