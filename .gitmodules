@@ -1002,3 +1002,7 @@
 	path = apps/giulia-berto/app-multi-lap-anat
 	url = https://github.com/giulia-berto/app-multi-lap-anat
 	datalad-url = https://github.com/giulia-berto/app-multi-lap-anat
+[submodule "apps/giulia-berto/app-plot-roc-curve"]
+	path = apps/giulia-berto/app-plot-roc-curve
+	url = https://github.com/giulia-berto/app-plot-roc-curve
+	datalad-url = https://github.com/giulia-berto/app-plot-roc-curve
