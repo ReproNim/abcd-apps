@@ -1118,3 +1118,7 @@
 	path = apps/kathrynalpert/app-mouse_seg
 	url = https://github.com/kathrynalpert/app-mouse_seg
 	datalad-url = https://github.com/kathrynalpert/app-mouse_seg
+[submodule "apps/kitchell/app-3Dfreesurfs"]
+	path = apps/kitchell/app-3Dfreesurfs
+	url = https://github.com/kitchell/app-3Dfreesurfs
+	datalad-url = https://github.com/kitchell/app-3Dfreesurfs
