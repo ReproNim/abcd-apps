@@ -418,3 +418,7 @@
 	path = apps/brainlife/app-network-backbone
 	url = https://github.com/brainlife/app-network-backbone
 	datalad-url = https://github.com/brainlife/app-network-backbone
+[submodule "apps/brainlife/app-network-matrices-2-mat"]
+	path = apps/brainlife/app-network-matrices-2-mat
+	url = https://github.com/brainlife/app-network-matrices-2-mat
+	datalad-url = https://github.com/brainlife/app-network-matrices-2-mat
