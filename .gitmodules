@@ -430,3 +430,7 @@
 	path = apps/brainlife/app-networkneuro-agg
 	url = https://github.com/brainlife/app-networkneuro-agg
 	datalad-url = https://github.com/brainlife/app-networkneuro-agg
+[submodule "apps/brainlife/app-nobrainer"]
+	path = apps/brainlife/app-nobrainer
+	url = https://github.com/brainlife/app-nobrainer
+	datalad-url = https://github.com/brainlife/app-nobrainer
