@@ -862,3 +862,7 @@
 	path = apps/FarnazZE/bnbl-brainlife-create-edge-time-series
 	url = https://github.com/FarnazZE/bnbl-brainlife-create-edge-time-series
 	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-create-edge-time-series
+[submodule "apps/FarnazZE/bnbl-brainlife-predict-fc-from-sc"]
+	path = apps/FarnazZE/bnbl-brainlife-predict-fc-from-sc
+	url = https://github.com/FarnazZE/bnbl-brainlife-predict-fc-from-sc
+	datalad-url = https://github.com/FarnazZE/bnbl-brainlife-predict-fc-from-sc
