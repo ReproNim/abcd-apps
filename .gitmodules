@@ -1054,3 +1054,7 @@
 	path = apps/guiomar/app-emptyroom-proj
 	url = https://github.com/guiomar/app-emptyroom-proj
 	datalad-url = https://github.com/guiomar/app-emptyroom-proj
+[submodule "apps/guiomar/app-epoch-equal"]
+	path = apps/guiomar/app-epoch-equal
+	url = https://github.com/guiomar/app-epoch-equal
+	datalad-url = https://github.com/guiomar/app-epoch-equal
