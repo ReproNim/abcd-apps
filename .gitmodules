@@ -386,3 +386,7 @@
 	path = apps/brainlife/app-mrtrix3-5tt
 	url = https://github.com/brainlife/app-mrtrix3-5tt
 	datalad-url = https://github.com/brainlife/app-mrtrix3-5tt
+[submodule "apps/brainlife/app-mrtrix3-act"]
+	path = apps/brainlife/app-mrtrix3-act
+	url = https://github.com/brainlife/app-mrtrix3-act
+	datalad-url = https://github.com/brainlife/app-mrtrix3-act
