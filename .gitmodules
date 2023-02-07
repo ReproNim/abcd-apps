@@ -538,3 +538,7 @@
 	path = apps/brainlife/app-sift-sift2
 	url = https://github.com/brainlife/app-sift-sift2
 	datalad-url = https://github.com/brainlife/app-sift-sift2
+[submodule "apps/brainlife/app-slicer-fsl"]
+	path = apps/brainlife/app-slicer-fsl
+	url = https://github.com/brainlife/app-slicer-fsl
+	datalad-url = https://github.com/brainlife/app-slicer-fsl
