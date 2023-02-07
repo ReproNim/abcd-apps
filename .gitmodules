@@ -210,3 +210,7 @@
 	path = apps/brainlife/app-deface
 	url = https://github.com/brainlife/app-deface
 	datalad-url = https://github.com/brainlife/app-deface
+[submodule "apps/brainlife/app-dt6tonifti"]
+	path = apps/brainlife/app-dt6tonifti
+	url = https://github.com/brainlife/app-dt6tonifti
+	datalad-url = https://github.com/brainlife/app-dt6tonifti
