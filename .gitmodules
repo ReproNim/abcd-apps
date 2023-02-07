@@ -894,3 +894,7 @@
 	path = apps/FBK-NILab/bl_app_dbb_DiceScore
 	url = https://github.com/FBK-NILab/bl_app_dbb_DiceScore
 	datalad-url = https://github.com/FBK-NILab/bl_app_dbb_DiceScore
+[submodule "apps/FBK-NILab/bl_app_dbb_DisSeg"]
+	path = apps/FBK-NILab/bl_app_dbb_DisSeg
+	url = https://github.com/FBK-NILab/bl_app_dbb_DisSeg
+	datalad-url = https://github.com/FBK-NILab/bl_app_dbb_DisSeg
