@@ -1150,3 +1150,7 @@
 	path = apps/kitchell/app-generatetractsurfaces
 	url = https://github.com/kitchell/app-generatetractsurfaces
 	datalad-url = https://github.com/kitchell/app-generatetractsurfaces
+[submodule "apps/kitchell/app-LBspectrum_matlab"]
+	path = apps/kitchell/app-LBspectrum_matlab
+	url = https://github.com/kitchell/app-LBspectrum_matlab
+	datalad-url = https://github.com/kitchell/app-LBspectrum_matlab
