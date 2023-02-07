@@ -502,3 +502,7 @@
 	path = apps/brainlife/app-reslice-isotropic
 	url = https://github.com/brainlife/app-reslice-isotropic
 	datalad-url = https://github.com/brainlife/app-reslice-isotropic
+[submodule "apps/brainlife/app-roi2roitracking"]
+	path = apps/brainlife/app-roi2roitracking
+	url = https://github.com/brainlife/app-roi2roitracking
+	datalad-url = https://github.com/brainlife/app-roi2roitracking
