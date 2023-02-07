@@ -922,3 +922,7 @@
 	path = apps/filipinascimento/bl-conmat2network
 	url = https://github.com/filipinascimento/bl-conmat2network
 	datalad-url = https://github.com/filipinascimento/bl-conmat2network
+[submodule "apps/filipinascimento/bl-network-communities"]
+	path = apps/filipinascimento/bl-network-communities
+	url = https://github.com/filipinascimento/bl-network-communities
+	datalad-url = https://github.com/filipinascimento/bl-network-communities
