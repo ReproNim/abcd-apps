@@ -526,3 +526,7 @@
 	path = apps/brainlife/app-segment-tracts-between-multiple-regions
 	url = https://github.com/brainlife/app-segment-tracts-between-multiple-regions
 	datalad-url = https://github.com/brainlife/app-segment-tracts-between-multiple-regions
+[submodule "apps/brainlife/app-sh2peaks"]
+	path = apps/brainlife/app-sh2peaks
+	url = https://github.com/brainlife/app-sh2peaks
+	datalad-url = https://github.com/brainlife/app-sh2peaks
