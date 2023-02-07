@@ -554,3 +554,7 @@
 	path = apps/brainlife/app-split-dwi-volumes
 	url = https://github.com/brainlife/app-split-dwi-volumes
 	datalad-url = https://github.com/brainlife/app-split-dwi-volumes
+[submodule "apps/brainlife/app-splitshells"]
+	path = apps/brainlife/app-splitshells
+	url = https://github.com/brainlife/app-splitshells
+	datalad-url = https://github.com/brainlife/app-splitshells
