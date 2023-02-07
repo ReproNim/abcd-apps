@@ -166,3 +166,7 @@
 	path = apps/brainlife/app-convert-tck-to-trk
 	url = https://github.com/brainlife/app-convert-tck-to-trk
 	datalad-url = https://github.com/brainlife/app-convert-tck-to-trk
+[submodule "apps/brainlife/app-convert-tractmasks-to-rois"]
+	path = apps/brainlife/app-convert-tractmasks-to-rois
+	url = https://github.com/brainlife/app-convert-tractmasks-to-rois
+	datalad-url = https://github.com/brainlife/app-convert-tractmasks-to-rois
