@@ -834,3 +834,7 @@
 	path = apps/dipy/bl_apps_dipy_reslice
 	url = https://github.com/dipy/bl_apps_dipy_reslice
 	datalad-url = https://github.com/dipy/bl_apps_dipy_reslice
+[submodule "apps/dipy/bl_apps_dipy_slr"]
+	path = apps/dipy/bl_apps_dipy_slr
+	url = https://github.com/dipy/bl_apps_dipy_slr
+	datalad-url = https://github.com/dipy/bl_apps_dipy_slr
