@@ -562,3 +562,7 @@
 	path = apps/brainlife/app-streamlineCategorySegmentation
 	url = https://github.com/brainlife/app-streamlineCategorySegmentation
 	datalad-url = https://github.com/brainlife/app-streamlineCategorySegmentation
+[submodule "apps/brainlife/app-subj2reference"]
+	path = apps/brainlife/app-subj2reference
+	url = https://github.com/brainlife/app-subj2reference
+	datalad-url = https://github.com/brainlife/app-subj2reference
