@@ -206,3 +206,7 @@
 	path = apps/brainlife/app-datanormalize
 	url = https://github.com/brainlife/app-datanormalize
 	datalad-url = https://github.com/brainlife/app-datanormalize
+[submodule "apps/brainlife/app-deface"]
+	path = apps/brainlife/app-deface
+	url = https://github.com/brainlife/app-deface
+	datalad-url = https://github.com/brainlife/app-deface
