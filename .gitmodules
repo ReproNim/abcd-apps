@@ -1034,3 +1034,7 @@
 	path = apps/guiomar/app_bdf2mne
 	url = https://github.com/guiomar/app_bdf2mne
 	datalad-url = https://github.com/guiomar/app_bdf2mne
+[submodule "apps/guiomar/app_brainvision2mne"]
+	path = apps/guiomar/app_brainvision2mne
+	url = https://github.com/guiomar/app_brainvision2mne
+	datalad-url = https://github.com/guiomar/app_brainvision2mne
