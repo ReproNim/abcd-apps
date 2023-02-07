@@ -466,3 +466,7 @@
 	path = apps/brainlife/app-pyafq-segment
 	url = https://github.com/brainlife/app-pyafq-segment
 	datalad-url = https://github.com/brainlife/app-pyafq-segment
+[submodule "apps/brainlife/app-pydeface"]
+	path = apps/brainlife/app-pydeface
+	url = https://github.com/brainlife/app-pydeface
+	datalad-url = https://github.com/brainlife/app-pydeface
