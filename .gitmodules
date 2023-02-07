@@ -1162,3 +1162,7 @@
 	path = apps/kitchell/app-plotEigenfunctions
 	url = https://github.com/kitchell/app-plotEigenfunctions
 	datalad-url = https://github.com/kitchell/app-plotEigenfunctions
+[submodule "apps/kitchell/app-reconstructLBeigenfunction"]
+	path = apps/kitchell/app-reconstructLBeigenfunction
+	url = https://github.com/kitchell/app-reconstructLBeigenfunction
+	datalad-url = https://github.com/kitchell/app-reconstructLBeigenfunction
