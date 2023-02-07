@@ -774,3 +774,7 @@
 	path = apps/dichio/bl-ERGM
 	url = https://github.com/dichio/bl-ERGM
 	datalad-url = https://github.com/dichio/bl-ERGM
+[submodule "apps/dipy/bl_apps_dipy_denoise_lpca"]
+	path = apps/dipy/bl_apps_dipy_denoise_lpca
+	url = https://github.com/dipy/bl_apps_dipy_denoise_lpca
+	datalad-url = https://github.com/dipy/bl_apps_dipy_denoise_lpca
