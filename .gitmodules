@@ -174,3 +174,7 @@
 	path = apps/brainlife/app-convert-tractmeasures-2-tractprofile
 	url = https://github.com/brainlife/app-convert-tractmeasures-2-tractprofile
 	datalad-url = https://github.com/brainlife/app-convert-tractmeasures-2-tractprofile
+[submodule "apps/brainlife/app-convert-wmc2wmc"]
+	path = apps/brainlife/app-convert-wmc2wmc
+	url = https://github.com/brainlife/app-convert-wmc2wmc
+	datalad-url = https://github.com/brainlife/app-convert-wmc2wmc
