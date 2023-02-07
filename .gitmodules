@@ -998,3 +998,7 @@
 	path = apps/giulia-berto/app-multi-lap
 	url = https://github.com/giulia-berto/app-multi-lap
 	datalad-url = https://github.com/giulia-berto/app-multi-lap
+[submodule "apps/giulia-berto/app-multi-lap-anat"]
+	path = apps/giulia-berto/app-multi-lap-anat
+	url = https://github.com/giulia-berto/app-multi-lap-anat
+	datalad-url = https://github.com/giulia-berto/app-multi-lap-anat
