@@ -722,3 +722,7 @@
 	path = apps/DanNBullock/app-SNR_Report
 	url = https://github.com/DanNBullock/app-SNR_Report
 	datalad-url = https://github.com/DanNBullock/app-SNR_Report
+[submodule "apps/DanNBullock/app-tcks_to_tck_and_WMC"]
+	path = apps/DanNBullock/app-tcks_to_tck_and_WMC
+	url = https://github.com/DanNBullock/app-tcks_to_tck_and_WMC
+	datalad-url = https://github.com/DanNBullock/app-tcks_to_tck_and_WMC
