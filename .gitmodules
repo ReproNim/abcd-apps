@@ -230,3 +230,7 @@
 	path = apps/brainlife/app-dwiToDtiinit
 	url = https://github.com/brainlife/app-dwiToDtiinit
 	datalad-url = https://github.com/brainlife/app-dwiToDtiinit
+[submodule "apps/brainlife/app-eccentricity-classification"]
+	path = apps/brainlife/app-eccentricity-classification
+	url = https://github.com/brainlife/app-eccentricity-classification
+	datalad-url = https://github.com/brainlife/app-eccentricity-classification
