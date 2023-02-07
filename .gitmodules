@@ -482,3 +482,7 @@
 	path = apps/brainlife/app-qt1-mrq
 	url = https://github.com/brainlife/app-qt1-mrq
 	datalad-url = https://github.com/brainlife/app-qt1-mrq
+[submodule "apps/brainlife/app-register-rois-mni"]
+	path = apps/brainlife/app-register-rois-mni
+	url = https://github.com/brainlife/app-register-rois-mni
+	datalad-url = https://github.com/brainlife/app-register-rois-mni
