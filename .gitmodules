@@ -54,3 +54,7 @@
 	path = apps/bacaron/app-reslice-roi-t1
 	url = https://github.com/bacaron/app-reslice-roi-t1
 	datalad-url = https://github.com/bacaron/app-reslice-roi-t1
+[submodule "apps/bcmcpher/app-networkmatrices"]
+	path = apps/bcmcpher/app-networkmatrices
+	url = https://github.com/bcmcpher/app-networkmatrices
+	datalad-url = https://github.com/bcmcpher/app-networkmatrices
