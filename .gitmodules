@@ -826,3 +826,7 @@
 	path = apps/dipy/bl_apps_dipy_median_otsu
 	url = https://github.com/dipy/bl_apps_dipy_median_otsu
 	datalad-url = https://github.com/dipy/bl_apps_dipy_median_otsu
+[submodule "apps/dipy/bl_apps_dipy_recobundles"]
+	path = apps/dipy/bl_apps_dipy_recobundles
+	url = https://github.com/dipy/bl_apps_dipy_recobundles
+	datalad-url = https://github.com/dipy/bl_apps_dipy_recobundles
