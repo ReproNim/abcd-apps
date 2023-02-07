@@ -578,3 +578,7 @@
 	path = apps/brainlife/app-template-matlab
 	url = https://github.com/brainlife/app-template-matlab
 	datalad-url = https://github.com/brainlife/app-template-matlab
+[submodule "apps/brainlife/app-template-python"]
+	path = apps/brainlife/app-template-python
+	url = https://github.com/brainlife/app-template-python
+	datalad-url = https://github.com/brainlife/app-template-python
