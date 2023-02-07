@@ -638,3 +638,7 @@
 	path = apps/brainlife/app-tractseg
 	url = https://github.com/brainlife/app-tractseg
 	datalad-url = https://github.com/brainlife/app-tractseg
+[submodule "apps/brainlife/app-trekker"]
+	path = apps/brainlife/app-trekker
+	url = https://github.com/brainlife/app-trekker
+	datalad-url = https://github.com/brainlife/app-trekker
