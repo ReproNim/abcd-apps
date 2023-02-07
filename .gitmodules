@@ -770,3 +770,7 @@
 	path = apps/davhunt/surface_tools
 	url = https://github.com/davhunt/surface_tools
 	datalad-url = https://github.com/davhunt/surface_tools
+[submodule "apps/dichio/bl-ERGM"]
+	path = apps/dichio/bl-ERGM
+	url = https://github.com/dichio/bl-ERGM
+	datalad-url = https://github.com/dichio/bl-ERGM
