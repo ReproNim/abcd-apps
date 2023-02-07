@@ -354,3 +354,7 @@
 	path = apps/brainlife/app-maiaRings
 	url = https://github.com/brainlife/app-maiaRings
 	datalad-url = https://github.com/brainlife/app-maiaRings
+[submodule "apps/brainlife/app-make-epochs"]
+	path = apps/brainlife/app-make-epochs
+	url = https://github.com/brainlife/app-make-epochs
+	datalad-url = https://github.com/brainlife/app-make-epochs
