@@ -478,3 +478,7 @@
 	path = apps/brainlife/app-qsiprep
 	url = https://github.com/brainlife/app-qsiprep
 	datalad-url = https://github.com/brainlife/app-qsiprep
+[submodule "apps/brainlife/app-qt1-mrq"]
+	path = apps/brainlife/app-qt1-mrq
+	url = https://github.com/brainlife/app-qt1-mrq
+	datalad-url = https://github.com/brainlife/app-qt1-mrq
