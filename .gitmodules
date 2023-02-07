@@ -134,3 +134,7 @@
 	path = apps/brainlife/app-compute-temporal-snr
 	url = https://github.com/brainlife/app-compute-temporal-snr
 	datalad-url = https://github.com/brainlife/app-compute-temporal-snr
+[submodule "apps/brainlife/app-compute-tract-stats"]
+	path = apps/brainlife/app-compute-tract-stats
+	url = https://github.com/brainlife/app-compute-tract-stats
+	datalad-url = https://github.com/brainlife/app-compute-tract-stats
