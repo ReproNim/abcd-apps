@@ -1110,3 +1110,7 @@
 	path = apps/joy-neuro/bnbl_brainlife
 	url = https://github.com/joy-neuro/bnbl_brainlife
 	datalad-url = https://github.com/joy-neuro/bnbl_brainlife
+[submodule "apps/kathrynalpert/app-bids-mrtrix3_connectome"]
+	path = apps/kathrynalpert/app-bids-mrtrix3_connectome
+	url = https://github.com/kathrynalpert/app-bids-mrtrix3_connectome
+	datalad-url = https://github.com/kathrynalpert/app-bids-mrtrix3_connectome
