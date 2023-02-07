@@ -946,3 +946,7 @@
 	path = apps/filipinascimento/bl-network-visualization
 	url = https://github.com/filipinascimento/bl-network-visualization
 	datalad-url = https://github.com/filipinascimento/bl-network-visualization
+[submodule "apps/filipinascimento/bl-timeseries2network"]
+	path = apps/filipinascimento/bl-timeseries2network
+	url = https://github.com/filipinascimento/bl-timeseries2network
+	datalad-url = https://github.com/filipinascimento/bl-timeseries2network
