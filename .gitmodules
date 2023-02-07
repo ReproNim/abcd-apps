@@ -154,3 +154,7 @@
 	path = apps/brainlife/app-convert-eddyqc-to-regressor
 	url = https://github.com/brainlife/app-convert-eddyqc-to-regressor
 	datalad-url = https://github.com/brainlife/app-convert-eddyqc-to-regressor
+[submodule "apps/brainlife/app-convert-noddi-datatypes"]
+	path = apps/brainlife/app-convert-noddi-datatypes
+	url = https://github.com/brainlife/app-convert-noddi-datatypes
+	datalad-url = https://github.com/brainlife/app-convert-noddi-datatypes
