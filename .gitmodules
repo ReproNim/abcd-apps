@@ -58,3 +58,7 @@
 	path = apps/bcmcpher/app-networkmatrices
 	url = https://github.com/bcmcpher/app-networkmatrices
 	datalad-url = https://github.com/bcmcpher/app-networkmatrices
+[submodule "apps/bcmcpher/app-StructuralCountNetwork"]
+	path = apps/bcmcpher/app-StructuralCountNetwork
+	url = https://github.com/bcmcpher/app-StructuralCountNetwork
+	datalad-url = https://github.com/bcmcpher/app-StructuralCountNetwork
