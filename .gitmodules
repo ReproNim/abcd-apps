@@ -462,3 +462,7 @@
 	path = apps/brainlife/app-prostriata-lgn-roi-generation
 	url = https://github.com/brainlife/app-prostriata-lgn-roi-generation
 	datalad-url = https://github.com/brainlife/app-prostriata-lgn-roi-generation
+[submodule "apps/brainlife/app-pyafq-segment"]
+	path = apps/brainlife/app-pyafq-segment
+	url = https://github.com/brainlife/app-pyafq-segment
+	datalad-url = https://github.com/brainlife/app-pyafq-segment
