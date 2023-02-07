@@ -694,3 +694,7 @@
 	path = apps/brainlife/VisWMROIWarp
 	url = https://github.com/brainlife/VisWMROIWarp
 	datalad-url = https://github.com/brainlife/VisWMROIWarp
+[submodule "apps/BramshQamar/brainlife_buan_bundle_profile"]
+	path = apps/BramshQamar/brainlife_buan_bundle_profile
+	url = https://github.com/BramshQamar/brainlife_buan_bundle_profile
+	datalad-url = https://github.com/BramshQamar/brainlife_buan_bundle_profile
