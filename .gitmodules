@@ -1014,3 +1014,7 @@
 	path = apps/guiomar/app-artifact-rejection
 	url = https://github.com/guiomar/app-artifact-rejection
 	datalad-url = https://github.com/guiomar/app-artifact-rejection
+[submodule "apps/guiomar/app-average-channels"]
+	path = apps/guiomar/app-average-channels
+	url = https://github.com/guiomar/app-average-channels
+	datalad-url = https://github.com/guiomar/app-average-channels
