@@ -38,3 +38,7 @@
 	path = apps/bacaron/app-freesurfer
 	url = https://github.com/bacaron/app-freesurfer
 	datalad-url = https://github.com/bacaron/app-freesurfer
+[submodule "apps/bacaron/app-mergeTCK"]
+	path = apps/bacaron/app-mergeTCK
+	url = https://github.com/bacaron/app-mergeTCK
+	datalad-url = https://github.com/bacaron/app-mergeTCK
