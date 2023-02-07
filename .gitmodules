@@ -322,3 +322,7 @@
 	path = apps/brainlife/app-hcp-acpc-alignment
 	url = https://github.com/brainlife/app-hcp-acpc-alignment
 	datalad-url = https://github.com/brainlife/app-hcp-acpc-alignment
+[submodule "apps/brainlife/app-hcp-cortex-mapping-replication"]
+	path = apps/brainlife/app-hcp-cortex-mapping-replication
+	url = https://github.com/brainlife/app-hcp-cortex-mapping-replication
+	datalad-url = https://github.com/brainlife/app-hcp-cortex-mapping-replication
