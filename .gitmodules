@@ -734,3 +734,7 @@
 	path = apps/DanNBullock/app-voxeleronOCT
 	url = https://github.com/DanNBullock/app-voxeleronOCT
 	datalad-url = https://github.com/DanNBullock/app-voxeleronOCT
+[submodule "apps/DanNBullock/app-wma_pyTools-TractFigs"]
+	path = apps/DanNBullock/app-wma_pyTools-TractFigs
+	url = https://github.com/DanNBullock/app-wma_pyTools-TractFigs
+	datalad-url = https://github.com/DanNBullock/app-wma_pyTools-TractFigs
