@@ -558,3 +558,7 @@
 	path = apps/brainlife/app-splitshells
 	url = https://github.com/brainlife/app-splitshells
 	datalad-url = https://github.com/brainlife/app-splitshells
+[submodule "apps/brainlife/app-streamlineCategorySegmentation"]
+	path = apps/brainlife/app-streamlineCategorySegmentation
+	url = https://github.com/brainlife/app-streamlineCategorySegmentation
+	datalad-url = https://github.com/brainlife/app-streamlineCategorySegmentation
