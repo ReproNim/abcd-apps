@@ -346,3 +346,7 @@
 	path = apps/brainlife/app-intersect-tract-roi
 	url = https://github.com/brainlife/app-intersect-tract-roi
 	datalad-url = https://github.com/brainlife/app-intersect-tract-roi
+[submodule "apps/brainlife/app-life"]
+	path = apps/brainlife/app-life
+	url = https://github.com/brainlife/app-life
+	datalad-url = https://github.com/brainlife/app-life
