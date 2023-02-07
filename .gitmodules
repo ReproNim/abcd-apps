@@ -542,3 +542,7 @@
 	path = apps/brainlife/app-slicer-fsl
 	url = https://github.com/brainlife/app-slicer-fsl
 	datalad-url = https://github.com/brainlife/app-slicer-fsl
+[submodule "apps/brainlife/app-snr_in_cc"]
+	path = apps/brainlife/app-snr_in_cc
+	url = https://github.com/brainlife/app-snr_in_cc
+	datalad-url = https://github.com/brainlife/app-snr_in_cc
