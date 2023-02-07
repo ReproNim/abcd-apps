@@ -986,3 +986,7 @@
 	path = apps/giulia-berto/app-ants-mni
 	url = https://github.com/giulia-berto/app-ants-mni
 	datalad-url = https://github.com/giulia-berto/app-ants-mni
+[submodule "apps/giulia-berto/app-compute-dsc"]
+	path = apps/giulia-berto/app-compute-dsc
+	url = https://github.com/giulia-berto/app-compute-dsc
+	datalad-url = https://github.com/giulia-berto/app-compute-dsc
