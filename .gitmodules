@@ -594,3 +594,7 @@
 	path = apps/brainlife/app-testflip
 	url = https://github.com/brainlife/app-testflip
 	datalad-url = https://github.com/brainlife/app-testflip
+[submodule "apps/brainlife/app-testgradientflip"]
+	path = apps/brainlife/app-testgradientflip
+	url = https://github.com/brainlife/app-testgradientflip
+	datalad-url = https://github.com/brainlife/app-testgradientflip
