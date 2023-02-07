@@ -514,3 +514,7 @@
 	path = apps/brainlife/app-ROIsfromAtlas
 	url = https://github.com/brainlife/app-ROIsfromAtlas
 	datalad-url = https://github.com/brainlife/app-ROIsfromAtlas
+[submodule "apps/brainlife/app-rsHRF"]
+	path = apps/brainlife/app-rsHRF
+	url = https://github.com/brainlife/app-rsHRF
+	datalad-url = https://github.com/brainlife/app-rsHRF
