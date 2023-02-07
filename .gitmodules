@@ -370,3 +370,7 @@
 	path = apps/brainlife/app-maxwell-filter
 	url = https://github.com/brainlife/app-maxwell-filter
 	datalad-url = https://github.com/brainlife/app-maxwell-filter
+[submodule "apps/brainlife/app-mean-transformation-matrix"]
+	path = apps/brainlife/app-mean-transformation-matrix
+	url = https://github.com/brainlife/app-mean-transformation-matrix
+	datalad-url = https://github.com/brainlife/app-mean-transformation-matrix
