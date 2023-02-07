@@ -442,3 +442,7 @@
 	path = apps/brainlife/app-notch-filter
 	url = https://github.com/brainlife/app-notch-filter
 	datalad-url = https://github.com/brainlife/app-notch-filter
+[submodule "apps/brainlife/app-participant-report"]
+	path = apps/brainlife/app-participant-report
+	url = https://github.com/brainlife/app-participant-report
+	datalad-url = https://github.com/brainlife/app-participant-report
