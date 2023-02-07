@@ -1102,3 +1102,7 @@
 	path = apps/JacobColbyTanner/bnbl_brainlife
 	url = https://github.com/JacobColbyTanner/bnbl_brainlife
 	datalad-url = https://github.com/JacobColbyTanner/bnbl_brainlife
+[submodule "apps/jkilmarx/app-template-python"]
+	path = apps/jkilmarx/app-template-python
+	url = https://github.com/jkilmarx/app-template-python
+	datalad-url = https://github.com/jkilmarx/app-template-python
