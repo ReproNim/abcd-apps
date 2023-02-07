@@ -450,3 +450,7 @@
 	path = apps/brainlife/app-plot-odf
 	url = https://github.com/brainlife/app-plot-odf
 	datalad-url = https://github.com/brainlife/app-plot-odf
+[submodule "apps/brainlife/app-plot-response"]
+	path = apps/brainlife/app-plot-response
+	url = https://github.com/brainlife/app-plot-response
+	datalad-url = https://github.com/brainlife/app-plot-response
