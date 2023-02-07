@@ -1066,3 +1066,7 @@
 	path = apps/guiomar/app_fif2mne
 	url = https://github.com/guiomar/app_fif2mne
 	datalad-url = https://github.com/guiomar/app_fif2mne
+[submodule "apps/guiomar/app-meg-split-ctf"]
+	path = apps/guiomar/app-meg-split-ctf
+	url = https://github.com/guiomar/app-meg-split-ctf
+	datalad-url = https://github.com/guiomar/app-meg-split-ctf
