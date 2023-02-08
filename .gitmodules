@@ -1298,3 +1298,7 @@
 	path = apps/zahransa/app-forward
 	url = https://github.com/zahransa/app-forward
 	datalad-url = https://github.com/zahransa/app-forward
+[submodule "apps/zahransa/app-ICA-params"]
+	path = apps/zahransa/app-ICA-params
+	url = https://github.com/zahransa/app-ICA-params
+	datalad-url = https://github.com/zahransa/app-ICA-params
