@@ -1258,3 +1258,7 @@
 	path = apps/zahransa/app-apply-ICA
 	url = https://github.com/zahransa/app-apply-ICA
 	datalad-url = https://github.com/zahransa/app-apply-ICA
+[submodule "apps/zahransa/app-apply-projectors"]
+	path = apps/zahransa/app-apply-projectors
+	url = https://github.com/zahransa/app-apply-projectors
+	datalad-url = https://github.com/zahransa/app-apply-projectors
