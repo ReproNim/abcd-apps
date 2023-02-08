@@ -1198,3 +1198,7 @@
 	path = apps/soichih/app-hcp-postfreesurfer
 	url = https://github.com/soichih/app-hcp-postfreesurfer
 	datalad-url = https://github.com/soichih/app-hcp-postfreesurfer
+[submodule "apps/soichih/app-shapesignature"]
+	path = apps/soichih/app-shapesignature
+	url = https://github.com/soichih/app-shapesignature
+	datalad-url = https://github.com/soichih/app-shapesignature
