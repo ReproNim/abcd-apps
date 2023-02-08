@@ -1290,3 +1290,7 @@
 	path = apps/zahransa/app-filter
 	url = https://github.com/zahransa/app-filter
 	datalad-url = https://github.com/zahransa/app-filter
+[submodule "apps/zahransa/app-find-bads-ecg"]
+	path = apps/zahransa/app-find-bads-ecg
+	url = https://github.com/zahransa/app-find-bads-ecg
+	datalad-url = https://github.com/zahransa/app-find-bads-ecg
