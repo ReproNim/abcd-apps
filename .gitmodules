@@ -1326,3 +1326,7 @@
 	path = apps/zahransa/app-SSP-projectors-ECG
 	url = https://github.com/zahransa/app-SSP-projectors-ECG
 	datalad-url = https://github.com/zahransa/app-SSP-projectors-ECG
+[submodule "apps/zahransa/app-SSP-projectors-EOG"]
+	path = apps/zahransa/app-SSP-projectors-EOG
+	url = https://github.com/zahransa/app-SSP-projectors-EOG
+	datalad-url = https://github.com/zahransa/app-SSP-projectors-EOG
