@@ -1214,3 +1214,7 @@
 	path = apps/svincibo/app-ashs-segment
 	url = https://github.com/svincibo/app-ashs-segment
 	datalad-url = https://github.com/svincibo/app-ashs-segment
+[submodule "apps/svincibo/app-combineROI"]
+	path = apps/svincibo/app-combineROI
+	url = https://github.com/svincibo/app-combineROI
+	datalad-url = https://github.com/svincibo/app-combineROI
