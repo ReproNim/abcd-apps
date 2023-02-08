@@ -1186,3 +1186,7 @@
 	path = apps/sandrahanekamp/app-bedpostx
 	url = https://github.com/sandrahanekamp/app-bedpostx
 	datalad-url = https://github.com/sandrahanekamp/app-bedpostx
+[submodule "apps/soichih/app-bids-tracula"]
+	path = apps/soichih/app-bids-tracula
+	url = https://github.com/soichih/app-bids-tracula
+	datalad-url = https://github.com/soichih/app-bids-tracula
