@@ -1202,3 +1202,7 @@
 	path = apps/soichih/app-shapesignature
 	url = https://github.com/soichih/app-shapesignature
 	datalad-url = https://github.com/soichih/app-shapesignature
+[submodule "apps/soichih/app-trk2mp4"]
+	path = apps/soichih/app-trk2mp4
+	url = https://github.com/soichih/app-trk2mp4
+	datalad-url = https://github.com/soichih/app-trk2mp4
