@@ -1310,3 +1310,7 @@
 	path = apps/zahransa/app-inverse
 	url = https://github.com/zahransa/app-inverse
 	datalad-url = https://github.com/zahransa/app-inverse
+[submodule "apps/zahransa/app-maxwell-filtering"]
+	path = apps/zahransa/app-maxwell-filtering
+	url = https://github.com/zahransa/app-maxwell-filtering
+	datalad-url = https://github.com/zahransa/app-maxwell-filtering
