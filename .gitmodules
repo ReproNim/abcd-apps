@@ -1246,3 +1246,7 @@
 	path = apps/vnbcs/app-fmriprep
 	url = https://github.com/vnbcs/app-fmriprep
 	datalad-url = https://github.com/vnbcs/app-fmriprep
+[submodule "apps/vnbcs/app-skullStrip"]
+	path = apps/vnbcs/app-skullStrip
+	url = https://github.com/vnbcs/app-skullStrip
+	datalad-url = https://github.com/vnbcs/app-skullStrip
