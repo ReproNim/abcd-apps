@@ -1270,3 +1270,7 @@
 	path = apps/zahransa/app-covariance
 	url = https://github.com/zahransa/app-covariance
 	datalad-url = https://github.com/zahransa/app-covariance
+[submodule "apps/zahransa/app-decoding-time-by-time"]
+	path = apps/zahransa/app-decoding-time-by-time
+	url = https://github.com/zahransa/app-decoding-time-by-time
+	datalad-url = https://github.com/zahransa/app-decoding-time-by-time
