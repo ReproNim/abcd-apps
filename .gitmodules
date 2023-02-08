@@ -1334,3 +1334,7 @@
 	path = apps/zahransa/app-time-frequency
 	url = https://github.com/zahransa/app-time-frequency
 	datalad-url = https://github.com/zahransa/app-time-frequency
+[submodule "apps/zahransa/app-decoding-full-epochs"]
+	path = apps/zahransa/app-decoding-full-epochs
+	url = https://github.com/zahransa/app-decoding-full-epochs
+	datalad-url = https://github.com/zahransa/app-decoding-full-epochs
