@@ -1190,3 +1190,7 @@
 	path = apps/soichih/app-bids-tracula
 	url = https://github.com/soichih/app-bids-tracula
 	datalad-url = https://github.com/soichih/app-bids-tracula
+[submodule "apps/soichih/app-conn-preprocessing"]
+	path = apps/soichih/app-conn-preprocessing
+	url = https://github.com/soichih/app-conn-preprocessing
+	datalad-url = https://github.com/soichih/app-conn-preprocessing
