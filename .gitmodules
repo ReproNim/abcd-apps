@@ -1238,3 +1238,7 @@
 	path = apps/svincibo/app-mp2rage-denoiseUNI
 	url = https://github.com/svincibo/app-mp2rage-denoiseUNI
 	datalad-url = https://github.com/svincibo/app-mp2rage-denoiseUNI
+[submodule "apps/vnbcs/app-ANTsRegistration"]
+	path = apps/vnbcs/app-ANTsRegistration
+	url = https://github.com/vnbcs/app-ANTsRegistration
+	datalad-url = https://github.com/vnbcs/app-ANTsRegistration
