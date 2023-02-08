@@ -1282,3 +1282,7 @@
 	path = apps/zahransa/app-events
 	url = https://github.com/zahransa/app-events
 	datalad-url = https://github.com/zahransa/app-events
+[submodule "apps/zahransa/app-evoked-averaged"]
+	path = apps/zahransa/app-evoked-averaged
+	url = https://github.com/zahransa/app-evoked-averaged
+	datalad-url = https://github.com/zahransa/app-evoked-averaged
