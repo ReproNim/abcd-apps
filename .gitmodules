@@ -1174,3 +1174,7 @@
 	path = apps/mandymejia/app-clever
 	url = https://github.com/mandymejia/app-clever
 	datalad-url = https://github.com/mandymejia/app-clever
+[submodule "apps/PranavMahajan25/HOI_toolbox"]
+	path = apps/PranavMahajan25/HOI_toolbox
+	url = https://github.com/PranavMahajan25/HOI_toolbox
+	datalad-url = https://github.com/PranavMahajan25/HOI_toolbox
