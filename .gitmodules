@@ -1322,3 +1322,7 @@
 	path = apps/zahransa/app-SSP
 	url = https://github.com/zahransa/app-SSP
 	datalad-url = https://github.com/zahransa/app-SSP
+[submodule "apps/zahransa/app-SSP-projectors-ECG"]
+	path = apps/zahransa/app-SSP-projectors-ECG
+	url = https://github.com/zahransa/app-SSP-projectors-ECG
+	datalad-url = https://github.com/zahransa/app-SSP-projectors-ECG
