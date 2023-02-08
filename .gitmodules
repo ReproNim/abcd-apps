@@ -1234,3 +1234,7 @@
 	path = apps/svincibo/app-mp2rage-computeT1andR1
 	url = https://github.com/svincibo/app-mp2rage-computeT1andR1
 	datalad-url = https://github.com/svincibo/app-mp2rage-computeT1andR1
+[submodule "apps/svincibo/app-mp2rage-denoiseUNI"]
+	path = apps/svincibo/app-mp2rage-denoiseUNI
+	url = https://github.com/svincibo/app-mp2rage-denoiseUNI
+	datalad-url = https://github.com/svincibo/app-mp2rage-denoiseUNI
