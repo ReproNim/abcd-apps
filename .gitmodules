@@ -1178,3 +1178,7 @@
 	path = apps/PranavMahajan25/HOI_toolbox
 	url = https://github.com/PranavMahajan25/HOI_toolbox
 	datalad-url = https://github.com/PranavMahajan25/HOI_toolbox
+[submodule "apps/roijo/NiftyNet"]
+	path = apps/roijo/NiftyNet
+	url = https://github.com/roijo/NiftyNet
+	datalad-url = https://github.com/roijo/NiftyNet
