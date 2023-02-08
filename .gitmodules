@@ -1226,3 +1226,7 @@
 	path = apps/svincibo/app-mergeROI
 	url = https://github.com/svincibo/app-mergeROI
 	datalad-url = https://github.com/svincibo/app-mergeROI
+[submodule "apps/svincibo/app-mergeTCK"]
+	path = apps/svincibo/app-mergeTCK
+	url = https://github.com/svincibo/app-mergeTCK
+	datalad-url = https://github.com/svincibo/app-mergeTCK
