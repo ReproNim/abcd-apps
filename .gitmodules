@@ -1222,3 +1222,7 @@
 	path = apps/svincibo/app-mergeDWI
 	url = https://github.com/svincibo/app-mergeDWI
 	datalad-url = https://github.com/svincibo/app-mergeDWI
+[submodule "apps/svincibo/app-mergeROI"]
+	path = apps/svincibo/app-mergeROI
+	url = https://github.com/svincibo/app-mergeROI
+	datalad-url = https://github.com/svincibo/app-mergeROI
