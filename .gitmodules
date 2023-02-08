@@ -1302,3 +1302,7 @@
 	path = apps/zahransa/app-ICA-params
 	url = https://github.com/zahransa/app-ICA-params
 	datalad-url = https://github.com/zahransa/app-ICA-params
+[submodule "apps/zahransa/app-ICA-plot"]
+	path = apps/zahransa/app-ICA-plot
+	url = https://github.com/zahransa/app-ICA-plot
+	datalad-url = https://github.com/zahransa/app-ICA-plot
