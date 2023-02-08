@@ -1210,3 +1210,7 @@
 	path = apps/sunaguo/brainlife-app-test
 	url = https://github.com/sunaguo/brainlife-app-test
 	datalad-url = https://github.com/sunaguo/brainlife-app-test
+[submodule "apps/svincibo/app-ashs-segment"]
+	path = apps/svincibo/app-ashs-segment
+	url = https://github.com/svincibo/app-ashs-segment
+	datalad-url = https://github.com/svincibo/app-ashs-segment
