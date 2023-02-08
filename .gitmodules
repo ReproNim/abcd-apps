@@ -1194,3 +1194,7 @@
 	path = apps/soichih/app-conn-preprocessing
 	url = https://github.com/soichih/app-conn-preprocessing
 	datalad-url = https://github.com/soichih/app-conn-preprocessing
+[submodule "apps/soichih/app-hcp-postfreesurfer"]
+	path = apps/soichih/app-hcp-postfreesurfer
+	url = https://github.com/soichih/app-hcp-postfreesurfer
+	datalad-url = https://github.com/soichih/app-hcp-postfreesurfer
