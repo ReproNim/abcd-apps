@@ -1254,3 +1254,7 @@
 	path = apps/zahransa/app-anatomy
 	url = https://github.com/zahransa/app-anatomy
 	datalad-url = https://github.com/zahransa/app-anatomy
+[submodule "apps/zahransa/app-apply-ICA"]
+	path = apps/zahransa/app-apply-ICA
+	url = https://github.com/zahransa/app-apply-ICA
+	datalad-url = https://github.com/zahransa/app-apply-ICA
