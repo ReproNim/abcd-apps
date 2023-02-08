@@ -1330,3 +1330,7 @@
 	path = apps/zahransa/app-SSP-projectors-EOG
 	url = https://github.com/zahransa/app-SSP-projectors-EOG
 	datalad-url = https://github.com/zahransa/app-SSP-projectors-EOG
+[submodule "apps/zahransa/app-time-frequency"]
+	path = apps/zahransa/app-time-frequency
+	url = https://github.com/zahransa/app-time-frequency
+	datalad-url = https://github.com/zahransa/app-time-frequency
