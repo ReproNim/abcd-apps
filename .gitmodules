@@ -1318,3 +1318,7 @@
 	path = apps/zahransa/app-selecting-ICA-components-manually
 	url = https://github.com/zahransa/app-selecting-ICA-components-manually
 	datalad-url = https://github.com/zahransa/app-selecting-ICA-components-manually
+[submodule "apps/zahransa/app-SSP"]
+	path = apps/zahransa/app-SSP
+	url = https://github.com/zahransa/app-SSP
+	datalad-url = https://github.com/zahransa/app-SSP
