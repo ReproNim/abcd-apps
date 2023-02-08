@@ -1182,3 +1182,7 @@
 	path = apps/roijo/NiftyNet
 	url = https://github.com/roijo/NiftyNet
 	datalad-url = https://github.com/roijo/NiftyNet
+[submodule "apps/sandrahanekamp/app-bedpostx"]
+	path = apps/sandrahanekamp/app-bedpostx
+	url = https://github.com/sandrahanekamp/app-bedpostx
+	datalad-url = https://github.com/sandrahanekamp/app-bedpostx
