@@ -1262,3 +1262,7 @@
 	path = apps/zahransa/app-apply-projectors
 	url = https://github.com/zahransa/app-apply-projectors
 	datalad-url = https://github.com/zahransa/app-apply-projectors
+[submodule "apps/zahransa/app-artifact-amplitude"]
+	path = apps/zahransa/app-artifact-amplitude
+	url = https://github.com/zahransa/app-artifact-amplitude
+	datalad-url = https://github.com/zahransa/app-artifact-amplitude
