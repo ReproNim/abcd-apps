@@ -1274,3 +1274,7 @@
 	path = apps/zahransa/app-decoding-time-by-time
 	url = https://github.com/zahransa/app-decoding-time-by-time
 	datalad-url = https://github.com/zahransa/app-decoding-time-by-time
+[submodule "apps/zahransa/app-epoch"]
+	path = apps/zahransa/app-epoch
+	url = https://github.com/zahransa/app-epoch
+	datalad-url = https://github.com/zahransa/app-epoch
