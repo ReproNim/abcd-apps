@@ -1206,3 +1206,7 @@
 	path = apps/soichih/app-trk2mp4
 	url = https://github.com/soichih/app-trk2mp4
 	datalad-url = https://github.com/soichih/app-trk2mp4
+[submodule "apps/sunaguo/brainlife-app-test"]
+	path = apps/sunaguo/brainlife-app-test
+	url = https://github.com/sunaguo/brainlife-app-test
+	datalad-url = https://github.com/sunaguo/brainlife-app-test
