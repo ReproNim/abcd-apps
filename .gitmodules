@@ -1306,3 +1306,7 @@
 	path = apps/zahransa/app-ICA-plot
 	url = https://github.com/zahransa/app-ICA-plot
 	datalad-url = https://github.com/zahransa/app-ICA-plot
+[submodule "apps/zahransa/app-inverse"]
+	path = apps/zahransa/app-inverse
+	url = https://github.com/zahransa/app-inverse
+	datalad-url = https://github.com/zahransa/app-inverse
