@@ -1314,3 +1314,7 @@
 	path = apps/zahransa/app-maxwell-filtering
 	url = https://github.com/zahransa/app-maxwell-filtering
 	datalad-url = https://github.com/zahransa/app-maxwell-filtering
+[submodule "apps/zahransa/app-selecting-ICA-components-manually"]
+	path = apps/zahransa/app-selecting-ICA-components-manually
+	url = https://github.com/zahransa/app-selecting-ICA-components-manually
+	datalad-url = https://github.com/zahransa/app-selecting-ICA-components-manually
