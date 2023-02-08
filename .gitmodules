@@ -1242,3 +1242,7 @@
 	path = apps/vnbcs/app-ANTsRegistration
 	url = https://github.com/vnbcs/app-ANTsRegistration
 	datalad-url = https://github.com/vnbcs/app-ANTsRegistration
+[submodule "apps/vnbcs/app-fmriprep"]
+	path = apps/vnbcs/app-fmriprep
+	url = https://github.com/vnbcs/app-fmriprep
+	datalad-url = https://github.com/vnbcs/app-fmriprep
