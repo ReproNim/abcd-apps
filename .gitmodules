@@ -1266,3 +1266,7 @@
 	path = apps/zahransa/app-artifact-amplitude
 	url = https://github.com/zahransa/app-artifact-amplitude
 	datalad-url = https://github.com/zahransa/app-artifact-amplitude
+[submodule "apps/zahransa/app-covariance"]
+	path = apps/zahransa/app-covariance
+	url = https://github.com/zahransa/app-covariance
+	datalad-url = https://github.com/zahransa/app-covariance
