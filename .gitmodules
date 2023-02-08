@@ -1294,3 +1294,7 @@
 	path = apps/zahransa/app-find-bads-ecg
 	url = https://github.com/zahransa/app-find-bads-ecg
 	datalad-url = https://github.com/zahransa/app-find-bads-ecg
+[submodule "apps/zahransa/app-forward"]
+	path = apps/zahransa/app-forward
+	url = https://github.com/zahransa/app-forward
+	datalad-url = https://github.com/zahransa/app-forward
