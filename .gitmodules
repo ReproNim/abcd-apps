@@ -1278,3 +1278,7 @@
 	path = apps/zahransa/app-epoch
 	url = https://github.com/zahransa/app-epoch
 	datalad-url = https://github.com/zahransa/app-epoch
+[submodule "apps/zahransa/app-events"]
+	path = apps/zahransa/app-events
+	url = https://github.com/zahransa/app-events
+	datalad-url = https://github.com/zahransa/app-events
