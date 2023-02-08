@@ -1250,3 +1250,7 @@
 	path = apps/vnbcs/app-skullStrip
 	url = https://github.com/vnbcs/app-skullStrip
 	datalad-url = https://github.com/vnbcs/app-skullStrip
+[submodule "apps/zahransa/app-anatomy"]
+	path = apps/zahransa/app-anatomy
+	url = https://github.com/zahransa/app-anatomy
+	datalad-url = https://github.com/zahransa/app-anatomy
